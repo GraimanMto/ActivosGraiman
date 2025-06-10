@@ -1,0 +1,370 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EEBOB006",
+      "Descripcion": "BOBINA PARA ELECTROFRENO MGM TIPO 90 220/360VAC",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EEPRE013",
+      "Descripcion": "PRESOSTATO DG50U-3 PS = 2.5-50mbar PMAX = 500mbar 250VAC",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EEPRE017",
+      "Descripcion": "PRESOSTATO DG10U-3 10mbar DE 30/240VAC",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EESEN045",
+      "Descripcion": "SENSOR FOTOCELULA EMISOR-RECEPTOR RECTANGULAR VERTICAL 57X23X20mm RELE NO A = 30m PLASTICO CON CABLE  (GTE10-R3821/RAR 11811010)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT055",
+      "Descripcion": "CILINDRO PARA  SALIDA SECADERO GRES",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI002",
+      "Descripcion": "ANILLO CENTRADOR PARA CADENA SECADERO DEXT = 45mm DINT = 36mm E = 2mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA004",
+      "Descripcion": "ARANDELA DISTANCIADORA D = 40mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRA001",
+      "Descripcion": "BRAZO PARA JAULA SECADERO (RAR/60080193)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRA012",
+      "Descripcion": "BRAZO SOPORTE CANASTILLA SECADEO GAMBARELLI P400 WELKO (RGB/82230840)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ151",
+      "Descripcion": "BUJE METALICO DEXT1 = 45mm DEXT2 = 40mm DINT = 25mm L = 48mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCTL001",
+      "Descripcion": "CANASTILLA PARA SECADERO SIN RODILLOS (RAR/60410543)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE072",
+      "Descripcion": "EJE MANDRIL D1 = 20mm D2 = 15mm L = 138mm PARA SECADERO",
+      "Cantidad": 60,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE113",
+      "Descripcion": "EJE D1 = 24mm D2 = 30mm L = 201mm PARA REDUCTOR DE MESA SALIDA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV042",
+      "Descripcion": "ELECTROVALVULA 2/2 D = 1/4in NPT 110VAC BZWM-L-M22C",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG009",
+      "Descripcion": "ENGRANAJE LADO FIJO Z = 29 DEXT = 46.5mm DINT = 17mm PARA SECADERO WE3-20",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG010",
+      "Descripcion": "ENGRANAJE LADO LIBRE LOCO Z = 29 DEXT = 46.5mm DINT = 27mm PARA SECADERO WE3-20",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGRU038",
+      "Descripcion": "GRUPO TENSOR PARA CADENA PORTA CANASTILLAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGRU043",
+      "Descripcion": "GRUPO FRENO COMPLETO PARA BA/71 AC -220/380 VT WELKO (RAR/13049992)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI166",
+      "Descripcion": "GUIA PARA CORREAS TIPO B L = 3000mm PARA PRENSA SECADERO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMJAU001",
+      "Descripcion": "JAULA SECADERO VERTICAL 1100 X 1470mm WELKO (RGB/83140100)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMNT004",
+      "Descripcion": "MANOMETRO HORIZONTAL 0 - 60mbar CARATULA D = 2-1/2in CONEXION D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT092",
+      "Descripcion": "MOTOR ELECTROFRENO BRIDADO BA90LB4 2.2KW 254/440V 60HZ 1680RPM D=24mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT115",
+      "Descripcion": "MOTOR BRIDADO TS71B4 0.45KW 1680RPM 265/460V D = 14mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT125",
+      "Descripcion": "MOTOR ELECTROFRENO CON BRIDA BM63B4 0.22KW 1620RPM 277/480V D = 11mm (00.11.1034/20190005)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT128",
+      "Descripcion": "MOTOR ELECTROFRENO BRIDADO BA112MB4 4.8KW 1700RPM 440V D = 28mm ROBOTECH SYSTEM (10.150.17112)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT135",
+      "Descripcion": "MOTOR TRIFASICO TS71B4 0.45KW 1680RPM 265/460V D = 14mm PARA SECADERO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT153",
+      "Descripcion": "MOTOR ELECTROFRENO BRIDADO0.44KW 220V 1680RPM 60HZ D=14( RAR 13040027-13040026)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPAS012",
+      "Descripcion": "PASADOR CONICO M8 PARA ENGRANAJE TRACCION SECADERO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL093",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA Z = 14H100 CON M10 PARA MESA PRENSAS WELKO (RAR/62321003)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL099",
+      "Descripcion": "POLEA LOCA TENSORA D = 35mm H100 M10",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL101",
+      "Descripcion": "POLEA DIRECTRIZ  PARA SECADERO WE3-20-PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT114",
+      "Descripcion": "REDUCTOR ORTOGONAL NMRV50 I = 7.5 PAM71 B5 D1 = 14mm D2 = 160mm D3 = 25mm (00.10.1133)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT124",
+      "Descripcion": "REDUCTOR ORTOGONAL SW 050 I = 80 D1 = 14mm D2 = 160mm D3 = 24mm WELKO (RAR/13051015)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRDL003",
+      "Descripcion": "RODILLO SECADERO PARA CANASTILLA L = 1685mm (RAR/60508025)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRDL067",
+      "Descripcion": "RODILLO SECADERO VERTICAL D = 20mm L = 1465mm  WELKO (11.16.1001)",
+      "Cantidad": 150,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRES024",
+      "Descripcion": "RESORTE DE COMPRESION DEXT = 19.6mm L = 79mm E = 1.4mm PARA MANDRIL SECADERO VERTICAL",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVEN009",
+      "Descripcion": "VENTILADOR 2.2kW 3470rpm 90L PARA PANCONERA (0114700235)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN001",
+      "Descripcion": "INDICADOR DE NIVEL AC80W VT250V AC 1.3A",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN029",
+      "Descripcion": "FOTOCELULA EMISOR RECEPTOR  FAIZBP-1E FAIH00-1E",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN035",
+      "Descripcion": "SENSOR CONFIGURABLE FOTOCELULA LECTURA DIRECTA CILINDRICO M18 PNP NO A = 100mm METALICO CON CONECTOR M12  (SS2/AP-1E)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMARA119",
+      "Descripcion": "ARANDELA DEXT = 50mm DINT = 12.5mm E= 7mm PARA SECADERO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN069",
+      "Descripcion": "BANDA TERMOSOLDABLE TIPO B NIDO DE ABEJA",
+      "Cantidad": 80,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMBAN111",
+      "Descripcion": "BANDA ALTO RENDIMIENTO OPTIBELT XPA 1700",
+      "Cantidad": 3,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCHU017",
+      "Descripcion": "CHUMACERA ST120 PARA VENTILADOR  1ER ENFRIAMIENTO L6 WELKO (200111312)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMEJE071",
+      "Descripcion": "EJE MANDRIL D = 15mm D2 = 20mm D3 = 17mm L = 174mm PARA SECADERO (60010099)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMEJE081",
+      "Descripcion": "EJE DE TRACCION D1 = 17mm D2 = 19mm D3 = 20mm L = 175mm PARA MANDRIL WD SECADERO WE3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMELV016",
+      "Descripcion": "ELECTROVALVULA 5-2 MONOESTABLE D = 1/2in BOBINA 110VAC",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMENG002",
+      "Descripcion": "ENGRANAJE Z = 31 D = 19mm PARA SECADERO WE3-20",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMGRA008",
+      "Descripcion": "GRACERO RECTO D = 6 X 21mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMND002",
+      "Descripcion": "PUNTA DE MANDRIL D = 30mm L = 165mm SECADERO VERTICAL (RAR/60180091)",
+      "Cantidad": 36,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMND003",
+      "Descripcion": "PUNTA DE MANDRIL D = 22mm L = 150mm SECADERO VERTICAL",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMNT013",
+      "Descripcion": "MANOMETRO VERTICAL 0 - 250mbar CARATULA D = 2-1/2in CONEXION D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPAS026",
+      "Descripcion": "PASADOR D1 = 30mm D2 = 25mm L = 98mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPLA004",
+      "Descripcion": "PLACA DE FRICCION DE 20 X 20 X 150mm SECADERO WE1-18",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRET431",
+      "Descripcion": "RETENEDOR DE NITRILO DOBLE LABIO D = 30 X 47 X 7mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRET595",
+      "Descripcion": "RETENEDOR DE VITON 20 X 42 X 7",
+      "Cantidad": 108,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD001",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6208-2RS1 C3",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD438",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6206-2RS1 C3",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD440",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6210-2RS1 C3",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD455",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6311-2RS1 C3",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD456",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6312-2RS1 C3",
+      "Cantidad": 4,
+      "UM": "UN"
+    }
+  ]
+}

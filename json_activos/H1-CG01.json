@@ -1,0 +1,220 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMCAD007",
+      "Descripcion": "CADENA 08B-1 P = 1/2in PRETENSADA (N1603.I)",
+      "Cantidad": 10,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMCAD009",
+      "Descripcion": "CADENA 16B-1 P = 1in PRETENSADA",
+      "Cantidad": 18,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMCAD014",
+      "Descripcion": "CANDADO PRETENSADO PARA CADENA 16B-1 P = 1in",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAT063",
+      "Descripcion": "CATALINA CON CHAVETERO PLS-39-4 Z = 21 P = 3/8in DINT = 30mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE190",
+      "Descripcion": "EJE DE TRACCION PARA REDUCTOR DE CARGA I = 60 D1 = 25mm D2 = 30mm D3 = 25mm L = 205 mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFRE001",
+      "Descripcion": "FRENO COMPLETO PARA BA-90 ROBOTECH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGRU025",
+      "Descripcion": "GRUPO CILINDRO NEUMATICO D = 80mm C = 50mm PARA CARGADORA ROBOTECH(NE5030.3.CM)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI004",
+      "Descripcion": "GUIA PARA CORREA H150 DE 50 X 15mm ROBOTECH (NF.H150.G) SYSTEM",
+      "Cantidad": 6,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI179",
+      "Descripcion": "GUIA EN POLIZENO PARA BANDA H100 30 X 15mm CARGA (N930018)",
+      "Cantidad": 16,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMMND009",
+      "Descripcion": "MANDRIL MAS CONTROL PUNTA PARA 30L/T60 PARKING SYSTEM (NE1907.9.CM)",
+      "Cantidad": 66,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT002",
+      "Descripcion": "MOTOR BRIDADO 0.66KW 1680RPM 0.90HP 440V D = 25mm BMR (10.150.82.71)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT128",
+      "Descripcion": "MOTOR ELECTROFRENO BRIDADO BA112MB4 4.8KW 1700RPM 440V D = 28mm ROBOTECH SYSTEM (10.150.17112)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA089",
+      "Descripcion": "CONJ. PLACA UNION CORR. DENTAD L=120mm A=25mm DE CARG. SYSTEM",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL062",
+      "Descripcion": "POLEA DE SINCRONIZACION FIJA H150 Z = 18mm DINT = 25mm L = 51mm DEXT = 79mm PARA CARGA ROBOTECH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL074",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA COMPLETA H150 Z = 14 L1 = 45mm LT = 84mm CON RODAMIENTO 6004 CON EJE D = 14mm PARA CARGA ROBOTECH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL086",
+      "Descripcion": "POLEA LOCA TENSORA COMPLETA  H150 L = 59mm DEXT = 55mm CON RODAMIENTO 6204 CON PERNO M12 PARA CARGADORA ROBOTECH",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREV021",
+      "Descripcion": "REVESTIMIENTO DE CAUCHO DEXT = 44mm  DINT = 38mm  CARGADORA ROBOTECH",
+      "Cantidad": 25,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMROD027",
+      "Descripcion": "RODAMIENTO DE TRACCION RIGIDO DE BOLAS PARA RODILLOS CERAMICOS DINT = 8mm DEXT = 50mm L = 20mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMROD028",
+      "Descripcion": "RODAMIENTO DE TRACCION RIGIDO DE BOLAS PARA RODILLOS CERAMICOS LADO EXTREMO DINT = 20mm DEXT = 50mm L = 19mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRUE046",
+      "Descripcion": "RUEDA DE PRENSADOR DEXT = 40mm DINT = 12mm A = 20mm (3000040824)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAR001",
+      "Descripcion": "VARILLA ESTRIADA KW11 X 14 ACERO C45 PARA MANDRIL",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN031",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 900H150",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD001",
+      "Descripcion": "CADENA TRANSMISION 08-B1",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD046",
+      "Descripcion": "CANDADO PRETENSADO PARA CADENA08B-1 PASO DE 1/2in SYSTEM (N1603.26.I)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAS002",
+      "Descripcion": "CASQUILLO RANURADO CON CATALINA Z = 13 P = 1/2in (NPV.000343)",
+      "Cantidad": 66,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAT015",
+      "Descripcion": "CATALINA LOCA Z = 26 P = 19.05mm DINT = 52mm PARA CARGADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD012",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6300 2ZC3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD119",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6006-2RS1/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD137",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6302 2ZC3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD277",
+      "Descripcion": "RODAMIENTO DE RODILLOS CILINDRICOS NJ211 ECJ",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD371",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS CON ANILLO SEEGER 6004-2RSNR (N6004.2RS.NR)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD419",
+      "Descripcion": "RODAMIENTO LINEAL TIPO PATIN PARA CARGADORA KWVE25BG3V1",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD426",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6005-2RSH/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD432",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 608-2RSH/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD496",
+      "Descripcion": "RODAMIENTO DE LEVA CON EJE NUKR 40 A INA",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD667",
+      "Descripcion": "RODAMIENTO NTN UC208 D1",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}

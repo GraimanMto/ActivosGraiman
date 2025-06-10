@@ -1,0 +1,40 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMFIL092",
+      "Descripcion": "FILTRO GRANDE PARA CONCEPT A-B 130 MICRON ROBATECH (133272)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI042",
+      "Descripcion": "GUIA L = 1237mm 1 RAN.21 SYSTEM (8125063200/C8125063200)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMRD008",
+      "Descripcion": "MORDAZAS DE 300 X 50 X 30mm CON ROSCA 3 M6 X 27mm SYSTEM (8320445200/C8320445200)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER063",
+      "Descripcion": "PERNO LIBRE CONCENTRICO FR40 EI M12 X 18mm ACOPLADOR CAJAS SYSTEM (C9213504006)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER066",
+      "Descripcion": "PERNO LIBRE EXCENTRICO FRR 40 EI M12 X 18mm ACOPLADOR DE CAJAS SYSTEM (C9213504007)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD001",
+      "Descripcion": "CADENA TRANSMISION 08-B1",
+      "Cantidad": 6,
+      "UM": "UN"
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMACT078",
+      "Descripcion": "CILINDRO NEUMATICO D1 = 100mm D2 = 25mm C = 40mm PARA TRAVESAÑO RECTIFICADORA (24034100040A/240156210040)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT081",
+      "Descripcion": "CILINDRO NEUMATICO OPXV199.A D = 50mm C = 50mm CON BASTAGO PASANTE PARA PULIDORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT108",
+      "Descripcion": "ACTUADOR NEUMATICO PARA CENTRADOR DE RECTIFICADORA 3000040739 A D = 63mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI043",
+      "Descripcion": "ANILLO SEPARADOR DE RODAMIENTO D = 68 X 58mm E = 5mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI044",
+      "Descripcion": "ANILLO SEPARADOR DE RODAMIENTO D = 67.8 X 64.8mm L = 16.6mm PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI095",
+      "Descripcion": "ANILLO RASCADOR DEXT = 112.2mm DINT = 100mm E = 7.1mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN050",
+      "Descripcion": "BANDA DENTADA INFERIOR L = 8260mm A = 75mm RECTIFICADORA 296 (3000040402E) BMR",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN051",
+      "Descripcion": "BANDA DENTADA INFERIOR L = 9460mm A = 75mm BMR (3000040402F)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN060",
+      "Descripcion": "BANDA DENTADA SUPERIOR L = 6840mm A = 50mm RECTIFICADORA 296",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN061",
+      "Descripcion": "BANDA DENTADA SUPERIOR L = 8040mm A = 50mm BMR (3000040301E)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAR009",
+      "Descripcion": "BARRA DESLIZAMIENTO PARA EMPUJADOR CARRELLO VERTICAL RECTIFICADORA BMR (3000040917C)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAS004",
+      "Descripcion": "BASE PARA EJE RECTIFICADORA D = 80mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAS023",
+      "Descripcion": "BASE DE BRONCE EN L  PARA EMPUJADOR DE RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBIE004",
+      "Descripcion": "BIELA DE BALANCIAMIENTO DINT = 68mm DE 80 X 240 X 77mm BMR (3000040505A)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBIE006",
+      "Descripcion": "GRUPO BIELA COMPLETO PARA RECTIFICADORA (300AS40564.01)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRI013",
+      "Descripcion": "BRIDA DEXT = 108mm DINT = 47mm E = 26mm PARA LABERINTO DE CHUMACERA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRI023",
+      "Descripcion": "BRIDA SOPORTA MOTOR DEXT = 164mm DINT = 72mm E = 33mm PARA RECTIIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRI030",
+      "Descripcion": "BRIDA LABERINTO DEXT = 108mm DINT = 72mm BMR (3000043404A/3000043404)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBRI033",
+      "Descripcion": "BRIDA SOPORTE DE DISCO / PARA RECTIFICADORA BMR (3000043403)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBTT001",
+      "Descripcion": "BOTE L = 397mm DINT = 100mm CHAVETA 18X93mm (3000043402A) BMR",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ085",
+      "Descripcion": "BUJE CON ESTRIADO INTERIOR DEXT = 60mm L = 80mm PARA RECTIIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ093",
+      "Descripcion": "BUJE ACANALADO DEXT = 56mm DINT = 42mm L = 310mm INTERIOR PARA CHUMACERA DE RECTIFICADORA (3000040315B/3000040315A)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ107",
+      "Descripcion": "BUJE DE GOMA  GRM  DEXT = 30 DINT = 20mm L = 15mm PARA CHUMACERA DE RECTIFICADORA (3000042751) BMR",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ119",
+      "Descripcion": "BUJE DEXT = 15mm DINT = 12mm L = 22.5mm PARA RECTIFICADORA 429",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ134",
+      "Descripcion": "BUJE APERTURA GLY DEXT = 85mm DINT = 80mm L = 60mm BMR (21411808560)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ149",
+      "Descripcion": "BUJE RANURADO PARA CENTRADOR DE RECTIFICADORA DINT = 25mm L = 39mm (3000040704A.1) BMR",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAT080",
+      "Descripcion": "CATALINA FIJA Z = 18 DINT = 25mm P = 3/8in",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE111",
+      "Descripcion": "EJE PRINCIPAL D1 = 47mm D2 = 40mm D3 = 28mm L = 405mm PARA CHUMACERA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE125",
+      "Descripcion": "EJE SOPORTE D1 = 40mm D2 = 45mm L = 125mm PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE144",
+      "Descripcion": "EJE TRANSVERSAL D1 = 35 D2 = 28mm L = 345mm PARA LADO OPUESTO ENCODER DE RECTIFICADO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE149",
+      "Descripcion": "EJE SOPORTE DINT1 = 9mm DINT2 = 14mm L = 75mm TIPO BUJE",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE152",
+      "Descripcion": "EJE BRAZO DE BIELA D1 = 40mm D2 = 45mm L = 138mm PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE163",
+      "Descripcion": "EJE DE CENTRADOR D = 25mm L = 178mm PARA RECTIFICADORA (3000040706)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE164",
+      "Descripcion": "EJE ESTRIADO D = 42mm L = 1200mm PARA RECTIFICADORA BMR (8030301007/3000040309E)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE165",
+      "Descripcion": "EJE ESTRIADO D = 42mm L = 1500mm PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE206",
+      "Descripcion": "ARBOL MANDRIL BRIDA CON TRES AGUJEROS (3000043401A)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFUE004",
+      "Descripcion": "FUELLE PARA CHUMACERA DE RECTIFICADORA D1 = 110mm D2 = 125mm (3000042722) BMR",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFUE005",
+      "Descripcion": "FUELLE PARA EJE ACANALADO RECTIFICADOR D = 45mm (3000040212A) BMR",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFUE010",
+      "Descripcion": "FUELLE PARA BARRA DE RECTIFICADOR D = 80mm PARA EJE 1500 (3000040260B)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFUE013",
+      "Descripcion": "FUELLE DE EMPUJADOR D = 60mm PARA RECTIFICADORA (3000040938A)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFUE015",
+      "Descripcion": "FUELLE PARA TORNILLO DE APERTURA RECTIFICADOR D = 40mm BMR (3000040261C)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGRU005",
+      "Descripcion": "GRUPO COMPLETO DE ASENTAMIENTO PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI098",
+      "Descripcion": "COSTADO PARA GUIA INFERIOR BS98-429 BMR (3000041001HD3D)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI132",
+      "Descripcion": "GUIA SUPERIOR COMPLETA PARA ESCUADRADORA A = 57mm L = 3.25m (3000040533B)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI135",
+      "Descripcion": "GUIA ANTIVIBRACION CAUCHO COMPLETA DE 57 X 30 X 2680mm RECTIFICADORA (3000040533A)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI136",
+      "Descripcion": "GUIA INFERIOR DE 81 X 14 X 3607mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMLMN001",
+      "Descripcion": "LAMINA INFERIOR TEMPLADA  ESCUADRADORA BS98-429 BMR (3000041001HD2A)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMNJ016",
+      "Descripcion": "MANIJA FIJA PARA BISEL RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMNJ017",
+      "Descripcion": "MANIJA PARA CHUMACERA M8 PARA RECTIFICADORA (292091000002) BMR",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPAT003",
+      "Descripcion": "PATIN GUIA CORREA DE 91 X 51mm  PARA RECTIFICADORA (320AS40515)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER051",
+      "Descripcion": "TORNILLO DE BLOQUEO PARA CHUMACERA D = 15/16in L = 66mm BMR (3000042715/3000042715A)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA029",
+      "Descripcion": "PLACA PARA CILINDRO DE RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL068",
+      "Descripcion": "POLEA DE SINCRONIZACION FIJA INFERIOR Z = 30mm DINT = 60mm L = 85.5mm DEXT = 190mm PARA RECTIFICADORA (3000040403) BMR",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL070",
+      "Descripcion": "POLEA DE SINCRONIZACION FIJA Z = 30 DINT = 35mm L = 66mm DEXT = 102mm BMR (3000040803B)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL077",
+      "Descripcion": "POLEA LOCA INFERIOR Z = 30mm DINT = 62mm L = 85.5mm DEXT = 190mm PARA RECTIFICADORA (3000040409E)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL080",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA Z = 30mm L = 66mm DINT = 52mm DEXT = 102mm BMR (3000040813D)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL090",
+      "Descripcion": "POLEA TAMBOR LOCA E = 75mm PARA RECTIFICADORA BMR (3000040415F)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL097",
+      "Descripcion": "POLEA FIJA DE SINCRONIZACION SUPERIOR PARA RECTIFICADORA DEXT = 190 mm  DINT = 60 mm  Z = 30 (3000040313) BMR",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL110",
+      "Descripcion": "POLEA LOCA SUPERIOR RECTIFICADORA BMR (3000040303E)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPRO008",
+      "Descripcion": "PROTECCION DE BISEL PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPRO010",
+      "Descripcion": "PROTECCION DE CILINDRO PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPRO029",
+      "Descripcion": "PROTECCION IZQUIERDA-DERECHA (3000041027)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRUE046",
+      "Descripcion": "RUEDA DE PRENSADOR DEXT = 40mm DINT = 12mm A = 20mm (3000040824)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSEP008",
+      "Descripcion": "DISTANCIADOR PARA BRAZO DE BIELA PARA RECTIFICADORA DEXT1 = 50mm DEXT2 = 59.5 DINT = 41mm L = 25mm CON AGUJERO D = 8mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP003",
+      "Descripcion": "SOPORTE BRIDA 50 X 30 X 43 mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP013",
+      "Descripcion": "SOPORTE ASTA EN BRONCE PARA RECTIFICADORA 429",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP086",
+      "Descripcion": "SOPORTE BASE PARA TUBO DE AGUA PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP155",
+      "Descripcion": "SOPORTE CHUMACERA PARA RECTIFICADORA BMR (3000040317A)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP156",
+      "Descripcion": "SOPORTE BUJE DEXT = 50mm DINT = 40mm L = 115mm PARA EMPUJADOR RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTAM001",
+      "Descripcion": "TAMBOR DE REGISTRO PARA RECTIFICADORA 0 - 14 DEXT = 150mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTAM002",
+      "Descripcion": "TAMBOR GRADUADO ALUMINIO 0 - 10 DEXT =43mm DINT = 30mm L =  127mm PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTAP013",
+      "Descripcion": "TAPA POSTERIOR DE BISEL CASQUETE POSTERIOR PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTAP020",
+      "Descripcion": "TAPA LATERAL D1 = 135mm D2 = 103mm DINT = 52mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTAP033",
+      "Descripcion": "CONTRATAPA PARA BRAZO DE BIELA PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTOP012",
+      "Descripcion": "PLAQUETA DE WIDIA PARA EMPUJADOR RECTIFICADORA (3000040908)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTUE 017",
+      "Descripcion": "TUERCA REGULACION DE CILINDRO PARA RECTIFICADORA M16 X 1",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTUE013",
+      "Descripcion": "TUERCA HEXAGONAL DE BRONCE M15 L = 30mm PARA CILINDRO DE RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMABR030",
+      "Descripcion": "ABRAZADERA INOXIDABLE D = 27 - 51mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMANI097",
+      "Descripcion": "ANILLO DE GOMA DEXT = 98mm DINT = 72mm E = 2mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMANI100",
+      "Descripcion": "ANILLO RASCADOR DEXT = 135mm DINT = 147.2mm E = 7.1mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMANI161",
+      "Descripcion": "ANILLO RASCADOR DEXT = 185mm DINT = 165mm E = 8mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN033",
+      "Descripcion": "BANDA DE SINCRONIZACION AT10 ANCHO = 50mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAR395",
+      "Descripcion": "BARRA RECTIFICADO BS98-4 D = 80mm L = 1800mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMEJE044",
+      "Descripcion": "EJE PIVOTE M12 DEXT = 35mm L = 61mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMEJE104",
+      "Descripcion": "EJE P/POLEA SINCRONIZADA P/RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPAS039",
+      "Descripcion": "PASADOR LOCO RECTIFICADORA BS11-742 L = 56mm D = 10mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC023",
+      "Descripcion": "RACOR RECTO INOXIDABLE M6 A 4mm PASO 1mm BMR (242062000104M6A)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRET078",
+      "Descripcion": "RETENEDOR D = 55 X 72 X 9mm",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD121",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6008-2RS1 C3",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD345",
+      "Descripcion": "RODAMIENTO DE RODILLOS CONICOS SKF 33109 /Q",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD417",
+      "Descripcion": "RODAMIENTO LINEAL KH3050IP PARA EMPUJADOR RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMSOP040",
+      "Descripcion": "SOPORTE DE MUELA DE BISEL P/RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMTAP001",
+      "Descripcion": "TAPA DE BRAZO DE BIELA PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMTAP002",
+      "Descripcion": "TAPA DE CAUCHO D = 62 X 7mm BMR (21241006207)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMTAP013",
+      "Descripcion": "TAPA DE BISEL PARA RECTIFICADORA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMTUE027",
+      "Descripcion": "TUERCA DE SEGURIDAD SKF KM-26",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}

@@ -1,0 +1,1222 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "CMDES003",
+      "Descripcion": "DESENGRASANTE ORANGE TOUCH 40",
+      "Cantidad": 75,
+      "UM": "L"
+    },
+    {
+      "Articulo": "CMLUB113",
+      "Descripcion": "ACEITE HIDRAULICO MOBIL DTE 10 ISO 46",
+      "Cantidad": 440,
+      "UM": "GAL"
+    },
+    {
+      "Articulo": "EEPRE008",
+      "Descripcion": "PRESOSTATO MAP-630 20 ATOS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACO016",
+      "Descripcion": "ACOPLE CODO DE ALTA PRESION D = 1/2in BSP A 16mm CON EW 16-ZSR-ED A3C",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT028",
+      "Descripcion": "CILINDRO NEUMATICO D = 40mm C= 37mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI070",
+      "Descripcion": "ANILLO ANTIFRICCION BK-164 PARA VALVULON PRENSA WK 3500/4800 WELKO (729100164)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI071",
+      "Descripcion": "ANILLO ANTIFRICCION BK-176 PARA EXTRACTOR  PRENSA WK 3500 WELKO (729100176)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI072",
+      "Descripcion": "ANILLO ANTIFRICCION BK-3050 DE VALVULON PARA PRENSAS 3500 Y 4800 (729103050)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI073",
+      "Descripcion": "ANILLO BK ANTIFRICCION PARA VALVULON DEXT = 100mm DINT = 90mm E = 1mm PRENSA WK 3500/4800  WELKO (729106375)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI078",
+      "Descripcion": "ANILLO DE SELLADO DINT = 120mm E = 5mm DE EXTRACTOR PRENSA WK 3500 WELKO (729155026)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI079",
+      "Descripcion": "ANILLO DE SELLADO DINT = 35mm E = 5mm PARA EXTRACTOR PRENSA WK 3500 WELKO (7291550350)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI082",
+      "Descripcion": "ANILLO DE SELLADO S55013-0900-A46 DINT = 90mm E = 5mm PARA EXTRACTOR DE PRENSA 3500 WELKO (729155011/729155902)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI083",
+      "Descripcion": "ANILLO DE SELLADO DEXT = 80mm DINT= 62mm S55044-0800-A46 PARA EXTRACTO RPRENSA WK3500 WELKO (729155844/729155802)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI090",
+      "Descripcion": "ANILLO GUIA DE 1030 X 50mm E = 5mm BRIDA PISTON PRINCIPAL PRENSA WK 3500 WELKO (81040009)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI091",
+      "Descripcion": "ANILLO GUIA DE 1050 X 50mm E = 5mm PISTON PRENSADO PRENSA WK 3500 WELKO (81040008)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI092",
+      "Descripcion": "ANILLO GUIA DE 390 X 26mm E = 4mm TAPA MULTIPLICADOR PRENA WK 3500 WELKO (81040011)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI097",
+      "Descripcion": "ANILLO DE SELLADO PARA CILINDRO PRINCIPAL D = 60mm O2Z05-6000 A24N MULTIPLICADOR PRENSA WK 3500 Y PISTON CENTRAL PRENSA WK 4800 WELKO (7291556000)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI100",
+      "Descripcion": "ANILLO MAS ORING RR15X1030-Z52N TAPA DE LA BRIDA CILINDRO PRENSA WK 3500 WELKO (72925510300)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI101",
+      "Descripcion": "ANILLO MAS O´RING RSYI041836T29 PISTON CENTRAL PRENSA WK 3500 WELKO (72915510300)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI102",
+      "Descripcion": "ANILLO MAS ORING ANILLO E = 7.5mm ORING E = 8.5mm CILINDRO PRENSADO PRENSA WK 3500 WELKO (72915510600)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI107",
+      "Descripcion": "ANILLO MAS O´RING 2WE35X1030-Z52N PARA VALVULON DE PRENSAS 3500 Y 4800",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI108",
+      "Descripcion": "ANILLO MAS O´RING PT05X1050-T46 PARA CILINDRO DE PRENSADO PRENSA WK 3500 WELKO (72915510500)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI114",
+      "Descripcion": "ANILLO SOSTEN L = 54.5mm E = 1mm A = 3mm PARA VALVULON PRENSA WK 3500/4800 WELKO (729104325)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI116",
+      "Descripcion": "ANILLO GUIA D = 50mm L = 9.5mm PARA VALVULON WK3500/4800 WELKO (92090008/729159050)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI117",
+      "Descripcion": "ANILLO GUIA D = 80mm L = 9.5mm PARA VALVULON PRENSA WK 3500/4800 WELKO (92090007/729159080)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI118",
+      "Descripcion": "ANILLO GUIA D = 90mm L = 9.5mm PARA VALVULON PRENSA WK 3500/4800 WELKO (92090006/729159091)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI121",
+      "Descripcion": "ANILLO SOSTEN BK DEXT = 114mm DINT = 106mm PARA EXTRACTOR PRENSA WK 3500 WELKO (729100193)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI125",
+      "Descripcion": "ANILLO GUIA D = 600mm A = 4mm E = 40mm MULTIPLICADOR WK3500 PISTON CENTRAL PRENSA WK 4800 WELKO (81040010)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA001",
+      "Descripcion": "ARANDELA A TAZA PRENSA 4800 DINT = 51mm DEXT = 100mm E = 6mm WELKO (420051100)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA006",
+      "Descripcion": "ARANDELA SCHNORR D = 30mm WELKO (555007030)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA011",
+      "Descripcion": "ARANDELA DE SEGURIDAD 555007016 D = 16mm PARA PRENSA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA025",
+      "Descripcion": "ARANDELA DISTANCIADORA DEXT = 70mm DINT = 50mm E = 5.5mm CONECTOR PISTON TRAVERSA PRENSA WK 3500/4800 WELKO (081010050)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMARA026",
+      "Descripcion": "ARANDELA NORD LOCK D = 16mm (555008020)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ030",
+      "Descripcion": "BUJE LARGO DINT = 60mm DEXT = 110mm L = 480mm PARA BANCADA 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ098",
+      "Descripcion": "BUJE CONECTOR DINT = 50mm DEXT = 70mm L = 45mm PARA VALVULA Y PISTON CENTRAL PRENSA WK 3500/4800 WELKO (81040013)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ156",
+      "Descripcion": "CILINDRO PARA BANCADA DEXT = 200mm DINT = 120mm L = 245mm PARA EXTRACTOR PRENSA WK 3500 WELKO (82052006)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMECH001",
+      "Descripcion": "ENCHUFE DINT = 50mm DEXT = 60mm E = 42mm TRAVERSA Y PISTON PRENSA WK 4800 WELKO (82010025)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO003",
+      "Descripcion": "ELEMENTO LOGICO LC25 DB20E7X PARA PRENSA WK3500 (400070021)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO004",
+      "Descripcion": "ELEMENTO LOGICO LC40A40D7X R900935732 V8 Y V11 PARA PRENSA WK3500 (400070018)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO005",
+      "Descripcion": "ELEMENTO LOGICO LC40DB20D7X R900928821 V9 PARA PRENSA WK3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO010",
+      "Descripcion": "ELEMENTO LOGICO LC 32 A40D7X R9000909665 (400070013)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO012",
+      "Descripcion": "ELEMENTO LOGICO  LC16A40D7X R900912573 V10 Y V1 PARA PRENSA WK3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO013",
+      "Descripcion": "ELEMENTO LOGICO LC25DB40D7X R900912555 L=72mm REXROTH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV003",
+      "Descripcion": "ELECTROVALVULA NEUMATICA 5/2 D = 1/4in 454-V15-22",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV035",
+      "Descripcion": "ELECTROVALVULA DIRECCIONAL 4/2 24VDC 4WE6D62/EG24N9K4 R900561274 PARA TRAVERSA PRENSA 1500 (J0198787)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV040",
+      "Descripcion": "ELECTROVALVULA 24VDC 1.25A M-3SEW 6 U37/630MG24N9K4/V (400100008)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV049",
+      "Descripcion": "VALVULA DIRECCIONAL DE ACCIONAMIENTO MANUAL 4/2 REXTHROT 4WMM 6 EA53/F NMR:R900495891 WELKO (407000016/4070000161)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV056",
+      "Descripcion": "ELECTROVALVULA R900052392 / M-3 SED 6 CK13/350C G24 N9K4 (407100009)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV057",
+      "Descripcion": "ELECTROVALVULA DIRECCIONAL 3/2 REXROTH M-3SED 6 UK 13/350 CGL4N9K4 DESCARGA DEL MULTIPLICADOR 3500 WELKO (400081014)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV060",
+      "Descripcion": "ELECTROVALVULA PROPORCIONAL 4WRTE 27 E500L 44/6EG24K31/A1M NMR:R900616822 TRAVERSA PRENSA 3500 (4000750072/400075007)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFIL002",
+      "Descripcion": "FILTRO PARA BOMBA DE RECIRCULACION PRENSA 3500-4800 WELKO (4500038601)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI068",
+      "Descripcion": "GUIA RETEN DE 15 X 3 X 160mm PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI122",
+      "Descripcion": "GUIA RETEN L = 115mm A = 8mm PARA EXTRACTOR PRENSA WK 3500 WELKO (81050013)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI125",
+      "Descripcion": "GUIA RETEN L = 245mm PARA EXTRACTOR PRENSA WK 3500 WELKO (81050007)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI127",
+      "Descripcion": "GUIA RETEN L = 287mm PARA EXTRACTOR DE PRENSA WK 3500 WELKO (81050020/729159090)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI128",
+      "Descripcion": "GUIA RETEN L = 364.5mm PARA EXTRACTOR PRENSA WK 3500 WELKO (70050005)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMNT008",
+      "Descripcion": "MANOMETRO VERTICAL CON GLICERINA 0 - 160bar CARATULA D = 68mm CONEXION D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI001",
+      "Descripcion": "ORING 116 PARA VALVULON PRENSA WK 3500/4800 WELKO (729003050)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI002",
+      "Descripcion": "ORING 181 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI003",
+      "Descripcion": "ORING 215 CONECTOR PISTON TRAVERSA PRENSA WK 3500/4800 WELKO (729000215)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI004",
+      "Descripcion": "ORING 4237 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI005",
+      "Descripcion": "ORING 4400 PARA PRENSAS (729004400)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI006",
+      "Descripcion": "ORING 61600 PARA VALVULON PRENSA WK 3500/4800 WELKO (729061600)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI007",
+      "Descripcion": "ORING 305 OLDRAGHI PISTON CENTRAL PRENSA WK 3500 WELKO (729000305)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI008",
+      "Descripcion": "ORING DEXT = 90mm DINT = 83mm PARA VALVULON PRENSA WK 3500/4800 WELKO (729004325)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI011",
+      "Descripcion": "ORING PARA PRENSAS DEXT = 120mm DINT = 110mm PARA EXTRACTOR PRENSA WK 3500 WELKO (729000193)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI017",
+      "Descripcion": "GUARNICION ORING 2068 BOMBA MC-50M BICILINDRICA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI051",
+      "Descripcion": "RETEN TIPO ORING PARA PRENSAS D = 50 X 60 X 11.5mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI066",
+      "Descripcion": "RETEN TIPO ORING DEXT = 14mm DINT = 9mm / 109 PARA EXTRACTOR PRENSA WK 3500 PRENSA  (729000109)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI067",
+      "Descripcion": "RETEN TIPO ORING DEXT = 68mm DINT = 60mm / 164 PARA VALVULON PRENSA WK 3500/4800 WELKO (729000164)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI068",
+      "Descripcion": "RETEN TIPO ORING DEXT=90mm DINT = 84mm E = 3mm/ 4337 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI070",
+      "Descripcion": "RETEN TIPO ORING 729003156 DEXT = 44mm E = 2.4mm PARA PRENSAS (729003156)",
+      "Cantidad": 15,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI071",
+      "Descripcion": "RETENEDOR TIPO ORING DEXT = 64mm E = 3mm PISTON CENTRAL PRENSA WK 4800 WELKO (729000161)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI072",
+      "Descripcion": "RETENEDOR TIPO ORING TAPA DEL TANQUE 3500/4800 DEXT = 480mm E = 7mm (729000466)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI073",
+      "Descripcion": "RETEN TIPO ORING DEXT = 80mm DINT = 74mm 176 PARA EXTRACTOR PRENSA WK 3500 WELKO  (729000176)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI085",
+      "Descripcion": "ANILLO DE SELLADO S56202-0900-A-46 PARA PRENSA PARA EXTRACTOR PRENSA WK3500 WELKO (7292550900/7292550901)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA001",
+      "Descripcion": "PLACA L = 1275mm A = 220mm PARA BANCADA PRENSA WK 3500 WELKO (81010019)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPRO031",
+      "Descripcion": "SUPLEMENTO TIPO BAQUELITA D = 105cm PRENSA 3500 (81010049) WELKO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPTN012",
+      "Descripcion": "PISTON MULTIPLICADOR FU81003 PISTON CENTRAL PRENSA WK 3500 WELKO (81040004)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPTN017",
+      "Descripcion": "PISTON PARA VALVULON PRENSA WK 3500/4800 WELKO (92090003)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPTN020",
+      "Descripcion": "VASTAGO DE PISTON INFERIOR CENTRAL DEXT = 120mm L = 240mm PARA EXTRACTOR DE PRENSA WK3500 (82053001)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPTN021",
+      "Descripcion": "VASTAGO DE PISTON INFERIOR DEXT = 78mm L = 170mm PARA EXTRACTOR PRENSA WK 3500 WELKO (82052007)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRAS005",
+      "Descripcion": "RASCADOR 2409-1100 110 X 120 X 7 X 10mm PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRAS017",
+      "Descripcion": "RASCADOR P7.35 35 X 45 X 7 X 10mm PARA EXTRACTOR PRENSA WK 3500 WELKO (731007035)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRAS027",
+      "Descripcion": "RASCADOR CON ORING  DRZ5000262",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREG004",
+      "Descripcion": "REGULADOR DE FLUJO D = 1/4in NPT MACHO Y HEMBRA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET003",
+      "Descripcion": "RETEN VARISEAL 68X80X5mm PARA PRENSAS (729268800)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET004",
+      "Descripcion": "RETEN VARISEAL PVA300700-T405 60X70X7mm CONECTOR PISTON TRAVERSA PRENSA WK 3500/4800 WELKO (729269700)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET030",
+      "Descripcion": "RETENEDOR RASCADOR W12039 P = 7.25 D = 24 X 35 X 7mm PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET037",
+      "Descripcion": "RETEN KANTSEAL 729004081 D = 21 X 27 X 3.3mm PRENSAS WELKO (729004081/7290040811)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET038",
+      "Descripcion": "RETEN VARISEAL HF DVE300750 62 X 74 X6mm PARA TRAVERSA Y PISTON CENTRAL PRENSA WK 3500 WELKO (729268750)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET048",
+      "Descripcion": "RETEN PARA MULTIPLICADOR PRENSA 3500 7291553900",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET051",
+      "Descripcion": "RETEN DINT = 50mm DEXT = 53mm CON ORING TRELLEBORG RSK 200 500-T46N PARA VALVULON PRENSA WK 3500/4800 WELKO (729155501)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET053",
+      "Descripcion": "RETEN MAS ORING PARA PRENSA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET056",
+      "Descripcion": "RETEN PARA VALVULON PRENSA WK 3500/4800 WELKO (729155901)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRET057",
+      "Descripcion": "RETEN PARA VALVULON PRENSA WK 3500/4800 WELKO (729155801)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSEM006",
+      "Descripcion": "SELLO MECANICO NM40/25 BE ROTEN D = 40mm WELKO (4100400251)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTPN006",
+      "Descripcion": "TAPON HIDRAULICO D = 1-1/2in NPT PARA TRAVERSA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTPN016",
+      "Descripcion": "TAPON PARA COPLA RAPIDA PVC PARA CENTRALINA 1500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL013",
+      "Descripcion": "VALVULA DE SEGURIDAD DR 20-5-52/200 YM 1500 (405081052)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL033",
+      "Descripcion": "VALVULA SELENOIDE 1-1/4in NPT DN32 PILOT 400019013 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL062",
+      "Descripcion": "VALVULA REGULADORA 150 - 230bar",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL067",
+      "Descripcion": "VALVULA DE SEGURIDAD D = 1in PARA TANQUE SUPERIOR DE PRENSA 3500 Y 4800",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL069",
+      "Descripcion": "VALVULA REDUCTORA VR7-DP1-43-75 YM DE PRIMER PRENSADO PRENSA 3500 WELKO (405081049)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL083",
+      "Descripcion": "VALVULA PROPORCIONAL  4WRSE10V1-80-32/G24K0/A1V R900556812 EVSA-EVSB PRENSA 3500 (400081044)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVJG004",
+      "Descripcion": "VEJIGA 20lt PARA PRENSA 3500 WELKO (OS3222)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMACO020",
+      "Descripcion": "ACOPLE RAPIDO DE ALTA PRESION D = 1/2in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMACO036",
+      "Descripcion": "ACOPLE CODO D = 1/4in BSP A 8mm PARA CAÑERIA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMACO078",
+      "Descripcion": "ACOPLE RAPIDO MACHO D = 1/2in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMACO122",
+      "Descripcion": "ACOPLE RAPIDO HIDRAULICO HEMBRA D = 3/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMARA052",
+      "Descripcion": "ARANDELA PLANA D = 16mm (555008016)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBUJ010",
+      "Descripcion": "BUJE DINT = 5mm DEXT = 18mm L = 26mm (81090002)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMFIN005",
+      "Descripcion": "FIN DE CARRERA SHL-Q2155 OMRON DC: 2A 48V AC: 2A 125V",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMGRA012",
+      "Descripcion": "GRACERO CABEZA EXAGONAL D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN091",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1/2in WP 275bar DIN EN 853 25N CON ACOPLES RECTO Y CURVO 1/2in NPT L = 0.45m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPAS029",
+      "Descripcion": "PASADOR ELASTICO D = 4mm  L = 30mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPAS033",
+      "Descripcion": "PASADOR ELASTICO D = 8mm L = 800mm PARA VALVULON PRENSA WK 3500/4800 WELKO (565108080)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER109",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M16 X 70 GRADO 12.9 PARA VALVULON PRENSA WK 3500/4800 WELKO (590016070N)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER117",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M20 X 90 GRADO 8.8 (590020090R)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER125",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M30 X 120 GRADO 8.8",
+      "Cantidad": 3,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER126",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M30 X 130 GRADO 8.8",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER665",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M16 X 80 GRADO 8.8 GALVANIZADO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER675",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M30 X 150 GRADO 8.8",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER681",
+      "Descripcion": "PERNO ALLEN M30X340mm G = 12.9 PARA SUJECION DE TRAVERSA Y PISTON PRENSA WK 3500/4800 WELKO (085010022)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC062",
+      "Descripcion": "RACOR CODO PARA CAÑERIA 16mm TN.99-16.S-ES.16",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC089",
+      "Descripcion": "RACOR T MACHO D = 1/2in NPT PARA MANGUERA DE 12mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMREG006",
+      "Descripcion": "REGULADOR DE DESCARGA D = 1/2in",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRET005",
+      "Descripcion": "RETEN DUAL SEAL DRZS000234 BUJE DEL BLOQUE DE PRENSADO PRENSA WK3500/4800 WELKO (729999234)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD006",
+      "Descripcion": "RODAMIENTO SKF KRE 30 PPA",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD452",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6308-2RS1 C3",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD454",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6310-2RS1 C3",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD496",
+      "Descripcion": "RODAMIENTO DE LEVA CON EJE NUKR 40 A INA",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD499",
+      "Descripcion": "RODAMIENTO RODILLO DE LEVA CON EJE KR32 PPA SKF",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD501",
+      "Descripcion": "RODAMIENTO RODILLO DE LEVA CON EJE KR30 PPA SKF",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI148",
+      "Descripcion": "UNION NEPLO D = 1/2in BSP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI202",
+      "Descripcion": "UNION D = 1/4in NPT A 8mm PARA CAÑERIA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI389",
+      "Descripcion": "UNION NEPLO HIDRAULICO D = 1in BSP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMVAL087",
+      "Descripcion": "VALVULA DE CAMBIO NGG 306293 WELKO (400072001)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMVAL152",
+      "Descripcion": "VALVULA DE ALIVIO DBDS 20 K1X-315",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACO017",
+      "Descripcion": "ACOPLE CODO DE ALTA PRESION D = 3/4in BSP A 20mm PARA CAÑERIA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI109",
+      "Descripcion": "ANILLO SOSTEN BK-147 DEXT = 50mm DINT = 44mm E = 1.4mm PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMANI152",
+      "Descripcion": "SEMI-ANILLO PARA VIBROTAMIZ VLB 1200 (800020/60320622)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELO003",
+      "Descripcion": "ELEMENTO LOGICO LC25 DB20E7X PARA PRENSA WK3500 (400070021)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV002",
+      "Descripcion": "ELECTROVALVULA REXROTH LFA 25 DBW2-71/315 WELKO (400071013)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMELV035",
+      "Descripcion": "ELECTROVALVULA DIRECCIONAL 4/2 24VDC 4WE6D62/EG24N9K4 R900561274 PARA TRAVERSA PRENSA 1500 (J0198787)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMAN015",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1in L = 180mm PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMAN017",
+      "Descripcion": "MANGUERA HIDRAULICA L = 940mm 10 BAR 150 PSI",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMAN029",
+      "Descripcion": "MANGUERA HIDRAULICA DN50 2in L = 720mm PARA PRENSA 3500 (11750015)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI062",
+      "Descripcion": "RETEN TIPO ORING PRET 35 DEXT = 56mm E = 3.3mm PARA PRENSAS 3500 y 4800",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI068",
+      "Descripcion": "RETEN TIPO ORING DEXT=90mm DINT = 84mm E = 3mm/ 4337 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI071",
+      "Descripcion": "RETENEDOR TIPO ORING DEXT = 64mm E = 3mm PISTON CENTRAL PRENSA WK 4800 WELKO (729000161)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMORI074",
+      "Descripcion": "RETEN TIPO ORING OR4275 PARA PRENSAS",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTPN006",
+      "Descripcion": "TAPON HIDRAULICO D = 1-1/2in NPT PARA TRAVERSA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTPN016",
+      "Descripcion": "TAPON PARA COPLA RAPIDA PVC PARA CENTRALINA 1500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL062",
+      "Descripcion": "VALVULA REGULADORA 150 - 230bar",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVAL069",
+      "Descripcion": "VALVULA REDUCTORA VR7-DP1-43-75 YM DE PRIMER PRENSADO PRENSA 3500 WELKO (405081049)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMACO122",
+      "Descripcion": "ACOPLE RAPIDO HIDRAULICO HEMBRA D = 3/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN012",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1-1/2in WP = 290BAR MSHAIC-84/41  CON ACOPLE  D = 2in NPT CURVO Y RECTO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN019",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1/4in WP = 400bar TS 6387-EN CON ACOPLE D = 1/2in NPT RECTO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN068",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1/2in WP 275bar SAE 100 R2AT 10 CON ACOPLES RECTO Y CURVO 1/2in NPT L = 1.03m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN069",
+      "Descripcion": "MANGUERA HIDRAULICA D = 5/8in WP 250bar SAE 100 R22A CON ACOPLES RECTO Y CURVO 3/4in NPT L = 0.53m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN070",
+      "Descripcion": "MANGUERA HIDRAULICA D = 2in DIN 20023/EN 856 4SH NW50 CON ACOPLES BRIDADOS RECTO Y CURVO  L = 0.73m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN094",
+      "Descripcion": "MANGUERA HIDRAULICA D = 1/4in WP 400bar TS 6387/EN 853 25N CON ACOPLES RECTO Y CURVO 1/4in NPT L = 0.98m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN105",
+      "Descripcion": "MANGUERA HIDRAULICA D = 3/4in WP 3120psi 4Q16 W49H CON ACOPLES RECTO Y CURVO 1in NPT L = 0.85m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN113",
+      "Descripcion": "MANGUERA HIDRAULICA D = 5/8in WP 250bar 3625psi DIN 25N16 CON ACOPLES RECTO Y CURVO 3/4in NPT L = 0.67m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN139",
+      "Descripcion": "MANGUERA ALTA PRESION DE 2in  5003psi CON ACOPLE RECTO Y EN CODO L = 1560mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN151",
+      "Descripcion": "MANGUERA ALTA PRESION WP = 310bar DE 1/2in L = 1200mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMORI190",
+      "Descripcion": "RETENEDOR TIPO ORING DEXT = 67mm E = 5mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER083",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M12 X 150 GRADO 8.8",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER166",
+      "Descripcion": "PERNO ALLEN CABEZA CILINDRICA M6 X 70 GRADO 8.8",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI153",
+      "Descripcion": "UNION NEPLO HIDRAULICO 5/8 X 1/2in BSP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI202",
+      "Descripcion": "UNION D = 1/4in NPT A 8mm PARA CAÑERIA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI385",
+      "Descripcion": "UNION NEPLO DN25 D = 1-1/4in BSP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI389",
+      "Descripcion": "UNION NEPLO HIDRAULICO D = 1in BSP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT100",
+      "Descripcion": "CILINDRO APERTURA CIERRE C2 SDB D = 12mm C = 60mm P = 10bar PARA EMPACADORA F50 SYSTEM (9660103375)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT125",
+      "Descripcion": "MOTOR ELECTROFRENO CON BRIDA BM63B4 0.22KW 1620RPM 277/480V D = 11mm (00.11.1034/20190005)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL093",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA Z = 14H100 CON M10 PARA MESA PRENSAS WELKO (RAR/62321003)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT095",
+      "Descripcion": "REDUCTOR ORTOGONAL CHB-04 I = 46 D1 = 11mm D2 = 140mm D3 = 18mm (00.10.1005)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT114",
+      "Descripcion": "REDUCTOR ORTOGONAL NMRV50 I = 7.5 PAM71 B5 D1 = 14mm D2 = 160mm D3 = 25mm (00.10.1133)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREV023",
+      "Descripcion": "REVESTIMIENTO EN PVC ROJO DEXT = 35mm DINT = 31mm  ALTA TEMPERATURA (953135RAC) WELKO",
+      "Cantidad": 323,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMSOP016",
+      "Descripcion": "SOPORTE EN ALUMINIO L = 24mm D = 10mm RODA 6000",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN009",
+      "Descripcion": "BANDA DE SINCRONIZACION 1150H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN010",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 1250H100",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN011",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTBELT 1400H100",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN013",
+      "Descripcion": "BANDA DE SINCRONIZACION 1700H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN022",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 660H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN023",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 700H100",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN026",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 800H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN028",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 850H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN030",
+      "Descripcion": "BANDA DE SINCRONIZACION OPTIBELT 900H100",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN069",
+      "Descripcion": "BANDA TERMOSOLDABLE TIPO B NIDO DE ABEJA",
+      "Cantidad": 1,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMBAN312",
+      "Descripcion": "BANDA TRAPECIAL A-30",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN514",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 660H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN521",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 900H100",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD010",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6004-2RSH/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD424",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6002-2RSH/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD433",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6200-2RSH/C3",
+      "Cantidad": 30,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD434",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6202-2RSH/C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD663",
+      "Descripcion": "RODAMIENTO NTN UC204 D1",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBOM026",
+      "Descripcion": "BOMBA HIDRAULICA DE TORNILLOS PN055#4CR0N11N08T00 34-0002-150157 D = 32mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFIL001",
+      "Descripcion": "FILTRO PARA ENEA 171583 WELKO (4500038011)",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMKIT148",
+      "Descripcion": "KIT DE GUARNICION DE BOMBA DE ACEITE DE ENEA (729FLX0197)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT087",
+      "Descripcion": "MOTOR TRIFASICO DAHLANDER BRIDADO H132MCS B5 2-4 POLOS 9-7kW 220V 3800-1800RPM D = 38mm WELKO (200107971)",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}

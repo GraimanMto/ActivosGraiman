@@ -1,0 +1,136 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "CMESP002",
+      "Descripcion": "ESPONJA PARA LIMPIEZA 40 TIPO L K4 KERAJET (KJ19396)",
+      "Cantidad": 60,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EESEN088",
+      "Descripcion": "SENSOR DE NIVEL 2 BOYAS KERAJET PARA DEPOSITO CABEZAL (KJ12463)",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAU001",
+      "Descripcion": "CAUCHO TRANSPARENTE 40K6 A = 40mm L = 108mm ESP = 11mm KERAJET (KJ17867)",
+      "Cantidad": 55,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMDEP001",
+      "Descripcion": "DEPOSITO PRINCIPAL PARA TINTA K700S6 KERAJET (KJ17197)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMIPS002",
+      "Descripcion": "IMPULSOR DINT = 19mm DEXT = 207mm E = 84mm REF 55416742300",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMKIT096",
+      "Descripcion": "KIT DE ALIMENTACION PARA CABEZAL KERAJET K6 (KRCO026/KJ18953)",
+      "Cantidad": 120,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRAS022",
+      "Descripcion": "RASCADOR K1400S6 DE 1395 X 50 X 6mm KERAJET (KJ18054)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRAS023",
+      "Descripcion": "RASCADOR K700S6 DE 755 X 50 X 6mm KERAJET (KJ17954)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMTPN008",
+      "Descripcion": "TAPON MACHO CIEGO D = 1/8in NPT",
+      "Cantidad": 40,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "IPDECESP0001",
+      "Descripcion": "ESPONJA PARA LIMPIEZA TIPO L K6 KERAJET (KJ14964/KJ16291)",
+      "Cantidad": 40,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMFIL001",
+      "Descripcion": "FILTRO 5um SIN RACOR (KJ10021) KERAJET",
+      "Cantidad": 12,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC003",
+      "Descripcion": "RACOR CODO HEMBRA QSLF D = 1/4in NPT A 10mm",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC010",
+      "Descripcion": "RACOR CODO QSL D = 1/4in NPT A 10mm",
+      "Cantidad": 14,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC013",
+      "Descripcion": "RACOR CODO QSL D = 1/8in NPT A 10mm",
+      "Cantidad": 35,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC014",
+      "Descripcion": "RACOR CODO QSL D = 1/8in NPT A 4mm",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC021",
+      "Descripcion": "RACOR RECTO HEMBRA QS 1/4 A D = 10mm",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC025",
+      "Descripcion": "RACOR RECTO QS D = 1/2in NPT A D = 10mm",
+      "Cantidad": 50,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC054",
+      "Descripcion": "RACOR RECTO QS D = 1/4in NPT A D = 10mm",
+      "Cantidad": 14,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRAC106",
+      "Descripcion": "RACOR RECTO 1/8 A 10mm",
+      "Cantidad": 12,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMTUB170",
+      "Descripcion": "TUBO POLIAMIDA TRANSPARENTE 4X6 KERAJET (KJ18319)",
+      "Cantidad": 1,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMTUB172",
+      "Descripcion": "TUBO POLIAMIDA TRANSPARENTE 8X10 KERAJET (KJ18320)",
+      "Cantidad": 4,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMVAL282",
+      "Descripcion": "VALVULA DE ESFERA D= 1/8in PARA AIRE",
+      "Cantidad": 120,
+      "UM": "UN"
+    }
+  ]
+}

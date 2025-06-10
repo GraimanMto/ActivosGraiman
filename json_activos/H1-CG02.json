@@ -1,0 +1,196 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMBAN003",
+      "Descripcion": "BANDA DE SINCRONIZACION 2040H150 (2007600258/NE5508.8)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN006",
+      "Descripcion": "BANDA DENTADA H100 L = 11.10mt  NIDO DE ABEJA L = 2400mm (NE943.3)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN034",
+      "Descripcion": "BANDA TRAPECIAL NIDO DE ABEJA B-204",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ127",
+      "Descripcion": "BUJE SEPARADOR DEXT = 20mm DINT = 14mm L = 20mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAD007",
+      "Descripcion": "CADENA 08B-1 P = 1/2in PRETENSADA (N1603.I)",
+      "Cantidad": 10,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMCAD009",
+      "Descripcion": "CADENA 16B-1 P = 1in PRETENSADA",
+      "Cantidad": 18,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMCAD014",
+      "Descripcion": "CANDADO PRETENSADO PARA CADENA 16B-1 P = 1in",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAT037",
+      "Descripcion": "CATALINA FIJA CON CHAVETERO Z = 22 P = 1/2in DINT = 25mm PARA CARGADORA ROB",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGRU025",
+      "Descripcion": "GRUPO CILINDRO NEUMATICO D = 80mm C = 50mm PARA CARGADORA ROBOTECH(NE5030.3.CM)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI004",
+      "Descripcion": "GUIA PARA CORREA H150 DE 50 X 15mm ROBOTECH (NF.H150.G) SYSTEM",
+      "Cantidad": 6,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI083",
+      "Descripcion": "GUIA VERTICAL L = 4415mm DE 2 TRAMOS CARGA ROBOTECH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI097",
+      "Descripcion": "GUIA CENTRADOR EN V PARA BOX DE 50 X 45 X 35mm CON RANURA DE 23mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI179",
+      "Descripcion": "GUIA EN POLIZENO PARA BANDA H100 30 X 15mm CARGA (N930018)",
+      "Cantidad": 16,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMMND009",
+      "Descripcion": "MANDRIL MAS CONTROL PUNTA PARA 30L/T60 PARKING SYSTEM (NE1907.9.CM)",
+      "Cantidad": 66,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT002",
+      "Descripcion": "MOTOR BRIDADO 0.66KW 1680RPM 0.90HP 440V D = 25mm BMR (10.150.82.71)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA089",
+      "Descripcion": "CONJ. PLACA UNION CORR. DENTAD L=120mm A=25mm DE CARG. SYSTEM",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL086",
+      "Descripcion": "POLEA LOCA TENSORA COMPLETA  H150 L = 59mm DEXT = 55mm CON RODAMIENTO 6204 CON PERNO M12 PARA CARGADORA ROBOTECH",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRDL002",
+      "Descripcion": "RODILLO CON REVESTIMIENT D = 40mm L = 2525mm ROBOTECH",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREV003",
+      "Descripcion": "REVESTIMIENTO DE CAUCHO D = 38 X 44mm PARA CARGADORA ROBOTECH",
+      "Cantidad": 1,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMREV021",
+      "Descripcion": "REVESTIMIENTO DE CAUCHO DEXT = 44mm  DINT = 38mm  CARGADORA ROBOTECH",
+      "Cantidad": 25,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN003",
+      "Descripcion": "SENSOR EMISOR RECEPTOR E3S-AT36 OMRON",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN031",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 900H150",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD001",
+      "Descripcion": "CADENA TRANSMISION 08-B1",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD046",
+      "Descripcion": "CANDADO PRETENSADO PARA CADENA08B-1 PASO DE 1/2in SYSTEM (N1603.26.I)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAS002",
+      "Descripcion": "CASQUILLO RANURADO CON CATALINA Z = 13 P = 1/2in (NPV.000343)",
+      "Cantidad": 66,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAT044",
+      "Descripcion": "CATALINA LOCA CON RODAMIENTO COMPLETO Z = 17 P = 1/2in DINT = 15mm RODA6202",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMEJE007",
+      "Descripcion": "EJE DE TRACCION D1 = 25mm D2 = 30mm D3 = 35mm L = 865mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRES004",
+      "Descripcion": "RESORTE D/9 ESPIRA D = 2mm DINT = 16mm DEXT = 20 L = 60mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD371",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS CON ANILLO SEEGER 6004-2RSNR (N6004.2RS.NR)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD391",
+      "Descripcion": "RODAMIENTO RADIAL INSERTABLE DE BOLAS UC 206 D1",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD419",
+      "Descripcion": "RODAMIENTO LINEAL TIPO PATIN PARA CARGADORA KWVE25BG3V1",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD496",
+      "Descripcion": "RODAMIENTO DE LEVA CON EJE NUKR 40 A INA",
+      "Cantidad": 4,
+      "UM": "UN"
+    }
+  ]
+}

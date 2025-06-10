@@ -1,0 +1,184 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EEMOT009",
+      "Descripcion": "MOTOR PASO PASO 34HY2405-01 D = 9.5mm SYSTEM (C9110020034)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EEMOT011",
+      "Descripcion": "MOTOR PASO PASO D = 9.5mm HY200-3437-066 APILADOR SYSTEM (C9110020033)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT044",
+      "Descripcion": "CILINDRO NEUMATICO DOBLE EFECTO D = 25mm C = 50mm SYSTEM (9660102577)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT045",
+      "Descripcion": "CILINDRO NEUMATICO DOBLE EFECTO D = 32mm C = 450mm SYSTEM  (9660116544)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT048",
+      "Descripcion": "CILINDRO NEUMATICO DOBLE EFECTO D = 40mm C = 160mm PARA EMPACADORA FV08 SYSTEM  (9660116546)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT049",
+      "Descripcion": "CILINDRO NEUMATICO DOBLE EFECTO D = 80mm C = 80mm PARA EMPACADORA FV08 (9660116545)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT068",
+      "Descripcion": "CILINDRO EMPACADORA FV08 D = 80mm C = 50mm SMC SYSTEM (20090001329)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT088",
+      "Descripcion": "CILINDRO NEUMATICO D=25mm C=700mm PARA APOYO CENTRAL DE CARTON EMPACADORA FV08",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT089",
+      "Descripcion": "CILINDRO NEUMATICO DOBLE EFECTO D = 32mm C = 250mm PARA EMPACADORA FV08",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT109",
+      "Descripcion": "MICRO CILINDRO DOBLE EFECTO D = 10mm C = 15mm SMC CDJP2B10-15D EMPACADORA FV08 SYSTEM (9660116389)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ021",
+      "Descripcion": "BUJE DEXT = 14mm DINT = 9.52mm L = 28mm SYSTEM (8322266001)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCAD007",
+      "Descripcion": "CADENA 08B-1 P = 1/2in PRETENSADA (N1603.I)",
+      "Cantidad": 9,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMCHV001",
+      "Descripcion": "CHAVETA EN T 5 X 6 X 3mm L = 18mm PARA NMRV040 STE DA = 9.5 SYSTEM (8321576801)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCRE007",
+      "Descripcion": "CREMALLERA M=1.5mm L = 480mm SYSTEM (C8113224100)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMFIL092",
+      "Descripcion": "FILTRO GRANDE PARA CONCEPT A-B 130 MICRON ROBATECH (133272)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI082",
+      "Descripcion": "GUIA TREFILAFA DE 10 X 65 X 780mm SYSTEM (C9262000095)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI094",
+      "Descripcion": "GUIA TRAFILATA L = 1410mm A = 52mm E = 9.5mm NADELLA SF40TT SB PE (9262000093)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI109",
+      "Descripcion": "GUIA NADELLA PARA APOYO TRACERO FS32TT DE 42 X 7mm L = 480mm 8 AGUJEROS M8 SYSTEM (8125042330/C8125042330)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT117",
+      "Descripcion": "MOTOR BRUSHLESS MSK040C-0450-NIN-S3-UP0 2.7Nm 600VAC 2.4A D = 14mm PARA EMPACADORA FV08 (9110956099)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMRD009",
+      "Descripcion": "MORDAZA 300X40X23mm DIVISOR DE PILA EMPACADORA SYSTEM (C8328094800)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER064",
+      "Descripcion": "PERNO LIBRE CONCENTRICO M10 X 15mm NADELLA FRN32 SYSTEM (9213503210/C9213503210)",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER065",
+      "Descripcion": "PERNO LIBRE EXCENTRICO M10 X 15mm NADELLA FRNR32 SYSTEM (9213503211/C9213503211)",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER074",
+      "Descripcion": "PERNO LOCO CONCENTRICO GC32 EEAM SYSTEM (9213503214/C9213503214)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA065",
+      "Descripcion": "PLACA GUIA DE 30 X 20mm L = 1130mm SYSTEM (8322884000)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPLA071",
+      "Descripcion": "PLATO RECTIFICADOR POLIZENO E = 28 DE 322 X 72mm SYSTEM (8328361700)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT094",
+      "Descripcion": "REDUCTOR OCTOGONAL MR2I50 UP2A-14X160 I = 16.3 D1 = 14mm D2 = 24mm (9111951176)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRDL001",
+      "Descripcion": "RODILLO CON PERNO DEXT = 44mm L = 332mm (8128298200)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD077",
+      "Descripcion": "CADENA DE TRANSMISION 06-B1 (9.52mm) TRANSLINK",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPER767",
+      "Descripcion": "PERNO LOCO EXCENTRICO GCR32 EEMAM SYSTEM (C9213503215)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD656",
+      "Descripcion": "RODAMIENTO NTN AEL206 D1W3",
+      "Cantidad": 12,
+      "UM": "UN"
+    }
+  ]
+}

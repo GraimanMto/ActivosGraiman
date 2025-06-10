@@ -1,0 +1,208 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EECTR001",
+      "Descripcion": "CONTROL DE ENCENDIDO CFW005.01WK (OTD214/OTD238) WELKO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EETRM011",
+      "Descripcion": "TERMOCUPLA 1K L = 750mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG002",
+      "Descripcion": "ENGRANAJE MIXTO CONICO MAS CATALINA Z1 = 33 Z2 = 20 DINT = 25mm FIJO HORNO WELKO (200000045)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG027",
+      "Descripcion": "ENGRANAJE CONICO CORONA Z = 31 DINT = 25mm HORNO WELKO (200000036)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG030",
+      "Descripcion": "ENGRANAJE CONICO TRACCION Z=16 DINT = 15mm PARA BLOQUE HORNO WELKO (200000051)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG057",
+      "Descripcion": "ENGRANAJE CONICO CORONA Z = 33 DINT = 25mm HORNO WELKO (200000054)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI002",
+      "Descripcion": "GUIA DE ACERO A = 40mm E = 2mm (10.509.01)",
+      "Cantidad": 8,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI004",
+      "Descripcion": "GUIA PARA CORREA H150 DE 50 X 15mm ROBOTECH (NF.H150.G) SYSTEM",
+      "Cantidad": 9,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI103",
+      "Descripcion": "GUIA DE POLIZENE H075 ENTRADA HORNO WFR2-283 L = 3m (N930017)",
+      "Cantidad": 16,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI119",
+      "Descripcion": "GUIA PLASTICA VERDE TIPO B DE A = 22mm H = 20mm L = 3050mm (NE2.327)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT002",
+      "Descripcion": "MOTOR BRIDADO 0.66KW 1680RPM 0.90HP 440V D = 25mm BMR (10.150.82.71)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT004",
+      "Descripcion": "MOTOR SERVOVENTILADO BRIDADO 0.66KW 1680RPM 0.90HP 440V D = 25mm WELKO (10.150.97.71)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL058",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA COMPLETA H075 Z = 40 DINT = 35mm L = 36mm DEXT = 170mm CON RODAMIENTO 6008 WELKO (NE5028.5.CM)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL063",
+      "Descripcion": "POLEA DE SINCRONIZACION FIJA H075 Z = 40 DINT = 35mm L = 27mm DEXT = 165mm WELKO (NE5028.6)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREV005",
+      "Descripcion": "REVESTIMIENTO DE CAUCHO D = 53 X 63mm VERDE PARA RODILLO",
+      "Cantidad": 50,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMREV036",
+      "Descripcion": "REVESTIMIENTO DE CAUCHO D = 48 X 52mm PARA RODILLO HORNO",
+      "Cantidad": 60,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMVIN001",
+      "Descripcion": "VINCHA METALICA PARA BLOQUE HORNO WFR2 WELKO (TRAC02005)",
+      "Cantidad": 100,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMANI153",
+      "Descripcion": "ANILLO OBTURADOR SKF TSN 518 L",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN021",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 630H150",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN027",
+      "Descripcion": "BANDA DE SINCRONIZACION CARLISLE/DAYCO 800H150",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN112",
+      "Descripcion": "BANDA ALTO RENDIMIENTO OPTIBELT XPA 1800",
+      "Cantidad": 3,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN113",
+      "Descripcion": "BANDA ALTO RENDIMIENTO OPTIBELT XPA 1932",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN114",
+      "Descripcion": "BANDA ALTO RENDIMIENTO OPTIBELT XPA 2000",
+      "Cantidad": 3,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN124",
+      "Descripcion": "BANDA TRAPECIAL CARLISLE/DAYCO SPBX-4000",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD001",
+      "Descripcion": "CADENA TRANSMISION 08-B1",
+      "Cantidad": 5,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD023",
+      "Descripcion": "CANDADO PARA CADENA 08B1",
+      "Cantidad": 5,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMAN021",
+      "Descripcion": "MANGUERA NEUMATICA ALTA TEMPERATURA 150°C D = 8mm",
+      "Cantidad": 1,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMMNG023",
+      "Descripcion": "MANGUITO DE MONTAJE SKF H318",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD027",
+      "Descripcion": "RODAMIENTO CONTACTO ANGULAR 7207",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD028",
+      "Descripcion": "RODAMIENTO CONTACTO ANGULAR 7211BG",
+      "Cantidad": 10,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD315",
+      "Descripcion": "RODAMIENTO DE RODILLOS A ROTULA SKF 22218 EK/C3",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD442",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6213-2RS1 C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD454",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6310-2RS1 C3",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD457",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6313-2RS1 C3",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}

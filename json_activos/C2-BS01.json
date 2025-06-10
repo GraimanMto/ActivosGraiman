@@ -1,0 +1,22 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMJUN036",
+      "Descripcion": "JUNTA PARA ENCODER D = 45mm L = 45mm BANCO DE SELECCION (8116007300/C8116007300)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN068",
+      "Descripcion": "BANDA TERMOSOLDABLE TIPO B CON INSERTO SYSTEM (9942000004/C9942000004)",
+      "Cantidad": 20,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMROD656",
+      "Descripcion": "RODAMIENTO NTN AEL206 D1W3",
+      "Cantidad": 10,
+      "UM": "UN"
+    }
+  ]
+}

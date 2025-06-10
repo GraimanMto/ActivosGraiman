@@ -1,0 +1,40 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMGUI191",
+      "Descripcion": "GUIA LATERAL L= 3550mm COMPENSADOR CST LINE (10.098B.08)",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMREV002",
+      "Descripcion": "REVESTIMIENTO CAUCHO DINT = 28mm DEXT = 32mm E = 2mm PARA RODILLO D = 30mm WELKO (4006830)",
+      "Cantidad": 16,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMBUJ001",
+      "Descripcion": "BUJE DE GRILON DINT = 30mm DEXT = 35mm L = 35mm",
+      "Cantidad": 16,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPOL160",
+      "Descripcion": "POLEA FIJA TIPO B DINT = 30mm L = 35mm DEXT = 60mm WELKO (10.081.10)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPOL200",
+      "Descripcion": "POLEA FIJA 1B-60, DI-25MM COMPENSADORES",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRES069",
+      "Descripcion": "RESORTE DE TRACCION PARA RODILLOS COMPENSADOR PARRILLAS WELKO (10.098B.43)",
+      "Cantidad": 16,
+      "UM": "UN"
+    }
+  ]
+}

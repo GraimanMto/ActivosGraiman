@@ -1,0 +1,76 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMBAN009",
+      "Descripcion": "BANDA NIDO DE ABEJA 20 X 10 BARBIERI (0138800008)",
+      "Cantidad": 6,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMBAN158",
+      "Descripcion": "BANDA SINCRONICA H75 ALMA DE ACERO (AOTAG0080)",
+      "Cantidad": 20,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMGUI169",
+      "Descripcion": "GUIA POLIZENE VERDE L = 4m DE 30 X 15mm E = 0.75mm BARBIERI (0137700185)",
+      "Cantidad": 4,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMPOL111",
+      "Descripcion": "POLEA DENTADA Z=20 H=100 DINT=25mm (420880641/0550321002)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL115",
+      "Descripcion": "POLEA DENTADA Z=14 H=100 DI= (420880640/0550321001)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN128",
+      "Descripcion": "BANDA TRAPECIAL OPTIBELT A46",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN145",
+      "Descripcion": "BANDA TRAPECIAL OPTIBELT B56",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCAD003",
+      "Descripcion": "CADENA TRANSMISION 12-B1",
+      "Cantidad": 7,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCIL018",
+      "Descripcion": "CILINDRO NEUMATICO SMC C85N D = 20 C = 25 PARA PANCONERA",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCIN002",
+      "Descripcion": "BANDA CINTA DE TEFLON LUBRIGAS A = 60 L = 2100mm (AMPAA0524/0450300079)",
+      "Cantidad": 14,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD414",
+      "Descripcion": "RODAMIENTO INSERTABLE RIGIDO DE BOLAS UC 204 D1 O YAR-204 SKF",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMUNI162",
+      "Descripcion": "UNION PARA BANDA SINCRONICA DE PARKING DIENTE 7 ESPACIO ENTRE DIENTE 5 A = 20mm L = 54mm BARBIERI (0450382001)",
+      "Cantidad": 6,
+      "UM": "UN"
+    }
+  ]
+}

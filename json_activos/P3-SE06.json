@@ -1,0 +1,148 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EEPRE013",
+      "Descripcion": "PRESOSTATO DG50U-3 PS = 2.5-50mbar PMAX = 500mbar 250VAC",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EEPRE015",
+      "Descripcion": "PRESOSTATO DL3A-3 PS = 0.2-3mbar PMAX = 50mbar 205VAC",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EEPRE017",
+      "Descripcion": "PRESOSTATO DG10U-3 10mbar DE 30/240VAC",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMCTL001",
+      "Descripcion": "CANASTILLA PARA SECADERO SIN RODILLOS (RAR/60410543)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE072",
+      "Descripcion": "EJE MANDRIL D1 = 20mm D2 = 15mm L = 138mm PARA SECADERO",
+      "Cantidad": 60,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMNT004",
+      "Descripcion": "MANOMETRO HORIZONTAL 0 - 60mbar CARATULA D = 2-1/2in CONEXION D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT125",
+      "Descripcion": "MOTOR ELECTROFRENO CON BRIDA BM63B4 0.22KW 1620RPM 277/480V D = 11mm (00.11.1034/20190005)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT128",
+      "Descripcion": "MOTOR ELECTROFRENO BRIDADO BA112MB4 4.8KW 1700RPM 440V D = 28mm ROBOTECH SYSTEM (10.150.17112)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT114",
+      "Descripcion": "REDUCTOR ORTOGONAL NMRV50 I = 7.5 PAM71 B5 D1 = 14mm D2 = 160mm D3 = 25mm (00.10.1133)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRDL003",
+      "Descripcion": "RODILLO SECADERO PARA CANASTILLA L = 1685mm (RAR/60508025)",
+      "Cantidad": 150,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP115",
+      "Descripcion": "BRAZO SOPORTE CANASTILLA PARA PRENSA 3500 WELKO (RAR/60080385)",
+      "Cantidad": 8,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMVEN009",
+      "Descripcion": "VENTILADOR 2.2kW 3470rpm 90L PARA PANCONERA (0114700235)",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN069",
+      "Descripcion": "BANDA TERMOSOLDABLE TIPO B NIDO DE ABEJA",
+      "Cantidad": 80,
+      "UM": "M"
+    },
+    {
+      "Articulo": "UMBAN108",
+      "Descripcion": "BANDA ALTO RENDIMIENTO  OPTIBELT XPA 1257",
+      "Cantidad": 3,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMBAN117",
+      "Descripcion": "BANDA ALTO RENDIMIENTO OPTIBELT XPA 2800",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMCHU017",
+      "Descripcion": "CHUMACERA ST120 PARA VENTILADOR  1ER ENFRIAMIENTO L6 WELKO (200111312)",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMND002",
+      "Descripcion": "PUNTA DE MANDRIL D = 30mm L = 165mm SECADERO VERTICAL (RAR/60180091)",
+      "Cantidad": 36,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMMNT013",
+      "Descripcion": "MANOMETRO VERTICAL 0 - 250mbar CARATULA D = 2-1/2in CONEXION D = 1/4in NPT",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRET595",
+      "Descripcion": "RETENEDOR DE VITON 20 X 42 X 7",
+      "Cantidad": 108,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD001",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6208-2RS1 C3",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD421",
+      "Descripcion": "RODAMIENTO DE RODILLOS CILINDRICOS SKF NU312 ECP",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD438",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6206-2RS1 C3",
+      "Cantidad": 6,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD440",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6210-2RS1 C3",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD456",
+      "Descripcion": "RODAMIENTO RIGIDO DE BOLAS SKF 6312-2RS1 C3",
+      "Cantidad": 4,
+      "UM": "UN"
+    }
+  ]
+}

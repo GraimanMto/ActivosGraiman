@@ -1,0 +1,34 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "UMROT004",
+      "Descripcion": "ROTULA MACHO ROSCA DERECHA SAKAC 12M",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROT011",
+      "Descripcion": "ROTULA HEMBRA ROSCA  DERECHA SKF SIKAC 16 M",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROT016",
+      "Descripcion": "ROTULA MACHO ROSCA DERECHA SKF SAKAC 16 M",
+      "Cantidad": 2,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROT020",
+      "Descripcion": "ROTULA-JUNTA ESFERICA SKF SIKAC 12 M",
+      "Cantidad": 4,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROT029",
+      "Descripcion": "ROTULA MACHO ROSCA IZQUIERDA SALKAC 16m",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}
