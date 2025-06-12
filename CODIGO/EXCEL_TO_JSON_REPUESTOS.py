@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import json
 
-# Ruta de tu archivo Excel de repuestos
+# Ruta de tu archivo Excel de repuestos vamos a cambiar
 excel_path = r"C:\Users\bryam\Desktop\PRACTICAS GRAIMA\MOTORES\QR\BETA\Repuestos.xlsx"  # <-- cambia esto a tu ruta real
 
 # Ruta de la carpeta donde se guardarán los archivos JSON
