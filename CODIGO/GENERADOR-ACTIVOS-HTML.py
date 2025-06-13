@@ -7,17 +7,17 @@ from jinja2 import Environment, FileSystemLoader
 output_dir = "github_pages"
 padres_dir = os.path.join(output_dir, "padres")
 activos_dir = os.path.join(output_dir, "activos")
-images_dir = os.path.join(output_dir, "images")
+# images_dir = os.path.join(output_dir, "images")
 templates_dir = "templates"
-json_activos_dir = os.path.join(output_dir, "json_activos")
+# json_activos_dir = os.path.join(output_dir, "json_activos")
 js_dir = os.path.join(output_dir, "js")
 
 os.makedirs(output_dir, exist_ok=True)
 os.makedirs(padres_dir, exist_ok=True)
 os.makedirs(activos_dir, exist_ok=True)
-os.makedirs(images_dir, exist_ok=True)
+# os.makedirs(images_dir, exist_ok=True)
 os.makedirs(templates_dir, exist_ok=True)
-os.makedirs(json_activos_dir, exist_ok=True)
+# os.makedirs(json_activos_dir, exist_ok=True)
 os.makedirs(js_dir, exist_ok=True)
 
 # Leer archivos
