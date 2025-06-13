@@ -1,10 +1,17 @@
 
 async function cargarRepuestos(jsonPath) {
+    const tabla = document.getElementById('tablaRepuestos');
+
+    // Alternar visibilidad si ya hay contenido cargado
+    if (tabla.innerHTML.trim() !== "") {
+        tabla.innerHTML = "";
+        return;
+    }
+
     try {
         const response = await fetch(jsonPath);
         const data = await response.json();
         const repuestos = data.repuestos || [];
-        const tabla = document.getElementById('tablaRepuestos');
 
         if (repuestos.length === 0) {
             tabla.innerHTML = '<p>No hay repuestos disponibles</p>';
@@ -24,9 +31,9 @@ async function cargarRepuestos(jsonPath) {
                 `).join('')}
             </table>
         `;
-        tabla.style.display = 'block';
     } catch (error) {
         console.error('Error loading repuestos:', error);
-        document.getElementById('tablaRepuestos').innerHTML = '<p>Error al cargar los repuestos</p>';
+        tabla.innerHTML = '<p>Error al cargar los repuestos</p>';
     }
 }
+
