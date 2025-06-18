@@ -9,7 +9,7 @@ padres_dir = os.path.join(output_dir, "padres")
 activos_dir = os.path.join(output_dir, "activos")
 # images_dir = os.path.join(output_dir, "images")
 templates_dir = "templates"
-# json_activos_dir = os.path.join(output_dir, "json_activos")
+json_activos_dir = os.path.join(output_dir, "json_activos")
 js_dir = os.path.join(output_dir, "js")
 
 os.makedirs(output_dir, exist_ok=True)
@@ -17,7 +17,7 @@ os.makedirs(padres_dir, exist_ok=True)
 os.makedirs(activos_dir, exist_ok=True)
 # os.makedirs(images_dir, exist_ok=True)
 os.makedirs(templates_dir, exist_ok=True)
-# os.makedirs(json_activos_dir, exist_ok=True)
+os.makedirs(json_activos_dir, exist_ok=True)
 os.makedirs(js_dir, exist_ok=True)
 
 # Leer archivos
@@ -123,18 +123,11 @@ with open(os.path.join(output_dir, "styles.css"), "w", encoding="utf-8") as f:
 # Crear loader.js
 loader_js_content = """
 async function cargarRepuestos(jsonPath) {
-    const tabla = document.getElementById('tablaRepuestos');
-
-    // Alternar visibilidad si ya hay contenido cargado
-    if (tabla.innerHTML.trim() !== "") {
-        tabla.innerHTML = "";
-        return;
-    }
-
     try {
         const response = await fetch(jsonPath);
         const data = await response.json();
         const repuestos = data.repuestos || [];
+        const tabla = document.getElementById('tablaRepuestos');
 
         if (repuestos.length === 0) {
             tabla.innerHTML = '<p>No hay repuestos disponibles</p>';
@@ -154,12 +147,12 @@ async function cargarRepuestos(jsonPath) {
                 `).join('')}
             </table>
         `;
+        tabla.style.display = 'block';
     } catch (error) {
         console.error('Error loading repuestos:', error);
-        tabla.innerHTML = '<p>Error al cargar los repuestos</p>';
+        document.getElementById('tablaRepuestos').innerHTML = '<p>Error al cargar los repuestos</p>';
     }
 }
-
 """
 with open(os.path.join(js_dir, "loader.js"), "w", encoding="utf-8") as f:
     f.write(loader_js_content)
@@ -248,7 +241,21 @@ for _, row in csv_df.iterrows():
             }
             break
 
-    json_filename = "-".join(nro_activo.split("-")[:2])
+    # Definir posibles nombres de JSON
+        base3 = "-".join(nro_activo.split("-")[:3])
+        base2 = "-".join(nro_activo.split("-")[:2])
+
+    # Construir paths relativos al directorio donde están tus JSON
+        json_activos_dir = os.path.join(output_dir, "json_activos")  # Ajusta si lo tienes en otra variable
+        json3_path = os.path.join(json_activos_dir, f"{base3}.json")
+        json2_path = os.path.join(json_activos_dir, f"{base2}.json")
+
+        # Seleccionar el nombre del archivo JSON que se usará
+        if os.path.isfile(json3_path):
+            json_filename = base3
+        else:
+            json_filename = base2
+
 
     html = activo_template.render(
         nro_activo=nro_activo,
