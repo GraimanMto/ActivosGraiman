@@ -1,0 +1,28 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EMBUJ076",
+      "Descripcion": "BUJE TOPE PARA EJE PARA CARRO 3500 DINT = 25mm DEXT = 50mm L = 22mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT042",
+      "Descripcion": "MOTOR BRUSHLESS 115U2B300BACAA115190 1.73KW 3000RPM 4.2A 6.6Nm D = 19mm PARA PRENSA WK3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT011",
+      "Descripcion": "REDUCTOR LINEAL EJES PARALELOS MR 2I63 UP2A I = 8.6 D1 = 19mm D2 = 105mm D3 = 30mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMPOL017",
+      "Descripcion": "POLEA DE SINCRONIZACION DEXT = 106mm DINT = 25mm  Z = 32",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}

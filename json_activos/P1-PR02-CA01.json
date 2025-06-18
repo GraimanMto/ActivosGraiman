@@ -1,0 +1,160 @@
+{
+  "repuestos": [
+    {
+      "Articulo": "EESND003",
+      "Descripcion": "SONDA LIVELLO CAPACITIVO",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMACT094",
+      "Descripcion": "CILINDRO NEUMATICO P/TOLV 3500 / DVASTAGO=12mm L=120mm PRESION MAXIMA 10bar.",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBAN005",
+      "Descripcion": "BANDA DENTADA T10 X 32mm PARA ROLLO DISTRIBUIDOR DE POLVO",
+      "Cantidad": 1,
+      "UM": "M"
+    },
+    {
+      "Articulo": "EMBAN071",
+      "Descripcion": "BANDA DENTADA 40HTD 14 M NFT L = 5.6m",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMBUJ053",
+      "Descripcion": "BUJE CALETADOR TLK DINT = 30mm DEXT = 52MM L = 18mm PARA EJE CARRELO 3",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE011",
+      "Descripcion": "ARBOL D = 50 X 30mm L = 138.3mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMEJE025",
+      "Descripcion": "EJE DE MOTOR D1 = 30mm D2 = 25mm L = 197mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMENG039",
+      "Descripcion": "ENGRANAJE REGILLA LOCO DOBLE Z = 25 P = 1/4in DINT = 20mm PARA CARGA PRENSA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMGUI047",
+      "Descripcion": "GUIA NADELLA DE 47 X 11 X 130mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMJUN026",
+      "Descripcion": "JUNTA ESFERICA DERECHA HEMBRA M10",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMMOT034",
+      "Descripcion": "MOTOR BRIDADO CON FRENO 0.45KW 1640RPM 220V D = 14mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPER038",
+      "Descripcion": "PERNO PORTA RUEDA TOLVA 3500 M12 X 22mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL001",
+      "Descripcion": "POLEA DE SINCRONIZACION Z = 32 DINT = 42mm H125 PARA CARRO 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPOL082",
+      "Descripcion": "POLEA DE SINCRONIZACION LOCA H125 Z = 32 DINT1 = 50mm DINT2 = 25mm DEXT = 106mm  PARA CARRO 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMPTN025",
+      "Descripcion": "PISTON MAGNETICO CARRERA=50mm P.MAX 10BAR PARA TABLERO PRENSA 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMRCT088",
+      "Descripcion": "REDUCTOR ORTOGONAL CM050 I = 10 D1 = 19mm D2 = 160mm D3 = 25mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP032",
+      "Descripcion": "SOPORTE CON ESFERA 053-120 DEXT = 50mm L = 53mm PARA TABLERO CARRO 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP033",
+      "Descripcion": "SOPORTE ESTRIBO EN L DERECHO PARA REGLA EXPULSION PRENSA 4800",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "EMSOP034",
+      "Descripcion": "SOPORTE ESTRIBO EN L IZQUIERDO PARA REGLA EXPULSION PRENSA 4800",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN057",
+      "Descripcion": "SENSOR INDUCTIVO M18 24VDC CABLE L = 50mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UESEN058",
+      "Descripcion": "SENSOR INDUCTIVO M12 10 - 30VDC  200mA",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMABR077",
+      "Descripcion": "ABRAZADERA PARA CABLE",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMROD404",
+      "Descripcion": "RODAMIENTO DE DOS HILERAS DE BOLAS CON CONTACTO ANGULAR 3306 A 2RS11TN9 MT33 SKF",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRUE027",
+      "Descripcion": "RUEDA EN V PARA CARRO 3500 PORTA POLVO DEXT = 91mm DINT = 35mm L = 60mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMRUE042",
+      "Descripcion": "RUEDA V DEXT = 107mm DINT = 75mm L = 40mm",
+      "Cantidad": 1,
+      "UM": "UN"
+    },
+    {
+      "Articulo": "UMVAL136",
+      "Descripcion": "VALVULA MANUAL 3/2 D = 1/4in CARRELO 3500",
+      "Cantidad": 1,
+      "UM": "UN"
+    }
+  ]
+}
