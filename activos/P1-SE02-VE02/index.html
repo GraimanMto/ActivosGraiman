@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>P1-SE02-VE02 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/P1-SE02-VE02.webp" alt="Imagen de P1-SE02-VE02">
@@ -55,19 +67,23 @@
         
         <tr><td>POTENCIA (kW)</td><td>34.5</td></tr>
         
-        <tr><td>Tensión Nomimal (V)</td><td>380</td></tr>
+        <tr><td>Tensión Nomimal (V)</td><td>220</td></tr>
         
-        <tr><td>Corriente Nominal (A)</td><td>66.5</td></tr>
+        <tr><td>Corriente Nominal (A)</td><td>66.0</td></tr>
         
         <tr><td>FP (Cosφ  )</td><td>0.84</td></tr>
         
         <tr><td>Velocidad Nominal (rpm)</td><td>1800</td></tr>
         
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>828.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>República Checa</td></tr>
+        
         <tr><td>Peso (kg)</td><td>218.0</td></tr>
         
         <tr><td>Rodamiento (EJE)</td><td>6312-ZC3</td></tr>
         
-        <tr><td>Rodamiento (VENTILADOR)</td><td>6210-2ZC3</td></tr>
+        <tr><td>Rodamiento (VENTILADOR</td><td>6210-2ZC3</td></tr>
         
     </table>
     

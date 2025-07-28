@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H2-HO01-VE02 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/H2-HO01-VE02.webp" alt="Imagen de H2-HO01-VE02">
@@ -33,7 +45,7 @@
     
     <img src="../../images/H2-HO01-VE02-MT01.webp" alt="Imagen de H2-HO01-VE02-MT01">
     <h1>H2-HO01-VE02-MT01</h1>
-    <p class="description">MOTOR TRIFASICO 18.5kW 21.3HP 240-440VAC 3600RPM 2 POLOS CON BASE 160ML B3 </p>
+    <p class="description">MOTOR TRIFASICO 18.5kW 25HP 240-440VAC 3600RPM 2 POLOS CON BASE 160ML B3 </p>
     <table>
         <tr><th>Campo</th><th>Valor</th></tr>
         
@@ -51,7 +63,7 @@
         
         <tr><td>TAMAÑO CONSTRUCTVO (FRAME)</td><td>160M</td></tr>
         
-        <tr><td>Tipo de conexión </td><td>DELTA</td></tr>
+        <tr><td>Tipo de conexión </td><td>VARIADOR</td></tr>
         
         <tr><td>CLASE DE EFICIENCIA</td><td>IE3</td></tr>
         
@@ -65,11 +77,17 @@
         
         <tr><td>Velocidad Nominal (rpm)</td><td>3544</td></tr>
         
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>444.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>China</td></tr>
+        
         <tr><td>Peso (kg)</td><td>170.0</td></tr>
         
-        <tr><td>Rodamiento (EJE)</td><td>6309/C3</td></tr>
+        <tr><td>Rodamiento (EJE)</td><td>6310 2RS1 C3</td></tr>
         
-        <tr><td>Rodamiento (VENTILADOR)</td><td>6209/C3</td></tr>
+        <tr><td>Rodamiento (VENTILADOR</td><td>6310 2RS1 C3</td></tr>
+        
+        <tr><td>Año </td><td>2024.0</td></tr>
         
     </table>
     

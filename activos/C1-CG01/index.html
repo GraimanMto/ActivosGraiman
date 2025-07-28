@@ -1,13 +1,15 @@
-<!DOCTYPE html> 
+
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>C1-CG01 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
     <script>
-        // Este script oculta todo el contenido hasta que se ingrese la clave correcta
-        const CLAVE_CORRECTA = "GIG001"; // ← Puedes cambiarla por la que desees
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
 
         document.addEventListener("DOMContentLoaded", function () {
             let clave = prompt("Ingrese la clave para acceder:");
@@ -23,15 +25,26 @@
     <p class="description">MAQUINA DE CARGA BOX EMPAQUE #1</p>
     <table>
         <tr><th>Campo</th><th>Valor</th></tr>
+        
         <tr><td>Descripción Centro Costos</td><td>SELECCIÓN 1</td></tr>
+        
         <tr><td>País de Origen</td><td>Italy</td></tr>
+        
         <tr><td>Año de Fabricación</td><td>2012</td></tr>
+        
         <tr><td>Nro Serie</td><td>7232</td></tr>
+        
         <tr><td>Criticidad</td><td>Crítico</td></tr>
+        
         <tr><td>Marca</td><td>SYSTEM</td></tr>
+        
         <tr><td>Modelo</td><td>VM5 3732</td></tr>
+        
         <tr><td>Consumo de Energía</td><td>33A</td></tr>
+        
     </table>
+
+    
 
     <div class="centro">
         <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/C1-CG01.json')">Ver repuestos</button>

@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H6-HO01-VE03 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/H6-HO01-VE03.webp" alt="Imagen de H6-HO01-VE03">
@@ -59,7 +71,7 @@
         
         <tr><td>POTENCIA (kW)</td><td>30.0</td></tr>
         
-        <tr><td>Tensión Nomimal (V)</td><td>440</td></tr>
+        <tr><td>Tensión Nomimal (V)</td><td>220</td></tr>
         
         <tr><td>Corriente Nominal (A)</td><td>96.5</td></tr>
         
@@ -67,11 +79,17 @@
         
         <tr><td>Velocidad Nominal (rpm)</td><td>3563</td></tr>
         
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>720.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>China</td></tr>
+        
         <tr><td>Peso (kg)</td><td>283.0</td></tr>
         
         <tr><td>Rodamiento (EJE)</td><td>6309/C3</td></tr>
         
-        <tr><td>Rodamiento (VENTILADOR)</td><td>6209/C3</td></tr>
+        <tr><td>Rodamiento (VENTILADOR</td><td>6209/C3</td></tr>
+        
+        <tr><td>Año </td><td>2022.0</td></tr>
         
     </table>
     

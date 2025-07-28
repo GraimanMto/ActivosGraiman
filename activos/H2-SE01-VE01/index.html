@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H2-SE01-VE01 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/H2-SE01-VE01.webp" alt="Imagen de H2-SE01-VE01">
@@ -65,11 +77,15 @@
         
         <tr><td>Velocidad Nominal (rpm)</td><td>1750</td></tr>
         
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>206.39999999999998</td></tr>
+        
+        <tr><td>País de Origen </td><td>República Checa</td></tr>
+        
         <tr><td>Peso (kg)</td><td>43.0</td></tr>
         
         <tr><td>Rodamiento (EJE)</td><td>6208-2ZC3</td></tr>
         
-        <tr><td>Rodamiento (VENTILADOR)</td><td>6208-2ZC3</td></tr>
+        <tr><td>Rodamiento (VENTILADOR</td><td>6208-2ZC3</td></tr>
         
     </table>
     

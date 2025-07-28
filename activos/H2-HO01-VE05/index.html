@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>H2-HO01-VE05 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/H2-HO01-VE05.webp" alt="Imagen de H2-HO01-VE05">
@@ -59,17 +71,21 @@
         
         <tr><td>Tensión Nomimal (V)</td><td>440</td></tr>
         
-        <tr><td>Corriente Nominal (A)</td><td>81</td></tr>
+        <tr><td>Corriente Nominal (A)</td><td>81.0</td></tr>
         
         <tr><td>FP (Cosφ  )</td><td>0.87</td></tr>
         
         <tr><td>Velocidad Nominal (rpm)</td><td>1755</td></tr>
         
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>1248.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>República Checa</td></tr>
+        
         <tr><td>Peso (kg)</td><td>300.0</td></tr>
         
         <tr><td>Rodamiento (EJE)</td><td>6213 2ZZ</td></tr>
         
-        <tr><td>Rodamiento (VENTILADOR)</td><td>6213 2ZZ</td></tr>
+        <tr><td>Rodamiento (VENTILADOR</td><td>6213 2ZZ</td></tr>
         
     </table>
     

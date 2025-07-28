@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>P1-PR01-CE01 - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
     <img src="../../images/P1-PR01-CE01.webp" alt="Imagen de P1-PR01-CE01">
@@ -55,13 +67,17 @@
         
         <tr><td>POTENCIA (kW)</td><td>158.0</td></tr>
         
-        <tr><td>Tensión Nomimal (V)</td><td>440</td></tr>
+        <tr><td>Tensión Nomimal (V)</td><td>220</td></tr>
         
-        <tr><td>Corriente Nominal (A)</td><td>244</td></tr>
+        <tr><td>Corriente Nominal (A)</td><td>244.0</td></tr>
         
         <tr><td>FP (Cosφ  )</td><td>0.89</td></tr>
         
         <tr><td>Velocidad Nominal (rpm)</td><td>1785</td></tr>
+        
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>3792.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>ITALIA</td></tr>
         
         <tr><td>Peso (kg)</td><td>1050.0</td></tr>
         
@@ -69,7 +85,7 @@
     
 
     <div class="centro">
-        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/P1-PR01-CE01.json')">Ver repuestos</button>
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/P1-PR01.json')">Ver repuestos</button>
     </div>
     <div id="tablaRepuestos"></div>
     <script src="../../js/loader.js"></script>
