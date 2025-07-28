@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P3-PR07-CE01 - Ficha Técnica</title>
+    <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
+</head>
+<body>
+    <img src="../../images/P3-PR07-CE01.webp" alt="Imagen de P3-PR07-CE01">
+    <h1>P3-PR07-CE01</h1>
+    <p class="description">CENTRALITA PRENSA #7 P3</p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Descripción Centro Costos</td><td>PRENSA 7</td></tr>
+        
+        <tr><td>País de Origen</td><td>Italy</td></tr>
+        
+        <tr><td>Año de Fabricación</td><td>2022</td></tr>
+        
+        <tr><td>Nro Serie</td><td>19000588</td></tr>
+        
+        <tr><td>Criticidad</td><td>Crítico</td></tr>
+        
+        <tr><td>Marca</td><td>SITI GROUP</td></tr>
+        
+        <tr><td>Modelo</td><td>EVO 5008 - 1900</td></tr>
+        
+    </table>
+
+    
+    <img src="../../images/P3-PR07-CE01-MT01.webp" alt="Imagen de P3-PR07-CE01-MT01">
+    <h1>P3-PR07-CE01-MT01</h1>
+    <p class="description">MOTOR TRIFASICO 160KW 215HP 220VAC 1800 RPM IE3 315M-4B CON BASE</p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Ubicación</td><td>PRENSA 7</td></tr>
+        
+        <tr><td>FABRICANTE</td><td>CANTONI</td></tr>
+        
+        <tr><td>MODELO</td><td>3SIE 315M-4B</td></tr>
+        
+        <tr><td># De Serie</td><td>B 82869</td></tr>
+        
+        <tr><td>TIPO DE MONTAJE</td><td>B3</td></tr>
+        
+        <tr><td>TAMAÑO CONSTRUCTVO (FRAME)</td><td>315M</td></tr>
+        
+        <tr><td>Tipo de conexión </td><td>DELTA</td></tr>
+        
+        <tr><td>CLASE DE EFICIENCIA</td><td>IE3</td></tr>
+        
+        <tr><td>POTENCIA (kW)</td><td>160.0</td></tr>
+        
+        <tr><td>Tensión Nomimal (V)</td><td>220</td></tr>
+        
+        <tr><td>Corriente Nominal (A)</td><td>485.0</td></tr>
+        
+        <tr><td>FP (Cosφ  )</td><td>0.9</td></tr>
+        
+        <tr><td>Velocidad Nominal (rpm)</td><td>1790</td></tr>
+        
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>3840.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>ITALIA</td></tr>
+        
+        <tr><td>Peso (kg)</td><td>1130.0</td></tr>
+        
+        <tr><td>Rodamiento (EJE)</td><td>NU318ET</td></tr>
+        
+        <tr><td>Rodamiento (VENTILADOR</td><td>6318P63E1</td></tr>
+        
+    </table>
+    
+
+    <div class="centro">
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/P3-PR07.json')">Ver repuestos</button>
+    </div>
+    <div id="tablaRepuestos"></div>
+    <script src="../../js/loader.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L6-RO01 - Ficha Técnica</title>
+    <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
+</head>
+<body>
+    <img src="../../images/L6-RO01.webp" alt="Imagen de L6-RO01">
+    <h1>L6-RO01</h1>
+    <p class="description">ROTOCOLOR S5 L6-RO01</p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Descripción Centro Costos</td><td>ESMALTADORA 6</td></tr>
+        
+        <tr><td>País de Origen</td><td>Italy</td></tr>
+        
+        <tr><td>Año de Fabricación</td><td>2008</td></tr>
+        
+        <tr><td>Nro Serie</td><td>V07RC0291/VO7RC0281</td></tr>
+        
+        <tr><td>Criticidad</td><td>Crítico</td></tr>
+        
+        <tr><td>Marca</td><td>SYSTEM</td></tr>
+        
+        <tr><td>Modelo</td><td>S5</td></tr>
+        
+    </table>
+
+    
+
+    <div class="centro">
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/L6-RO01.json')">Ver repuestos</button>
+    </div>
+    <div id="tablaRepuestos"></div>
+    <script src="../../js/loader.js"></script>
+</body>
+</html>

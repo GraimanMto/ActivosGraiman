@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H4-HO01-VE03 - Ficha Técnica</title>
+    <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
+</head>
+<body>
+    <img src="../../images/H4-HO01-VE03.webp" alt="Imagen de H4-HO01-VE03">
+    <h1>H4-HO01-VE03</h1>
+    <p class="description">VENTILADOR AIRE COMBUSTION H4</p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Descripción Centro Costos</td><td>HORNO 4</td></tr>
+        
+        <tr><td>País de Origen</td><td>Italy</td></tr>
+        
+        <tr><td>Año de Fabricación</td><td>1999</td></tr>
+        
+        <tr><td>Nro Serie</td><td>8 02518 35</td></tr>
+        
+        <tr><td>Criticidad</td><td>Crítico</td></tr>
+        
+        <tr><td>Marca</td><td>COMEFRI</td></tr>
+        
+        <tr><td>Modelo</td><td>DP 630/6 RD</td></tr>
+        
+        <tr><td>Velocidad</td><td>3600 RPM</td></tr>
+        
+    </table>
+
+    
+    <img src="../../images/H4-HO01-VE03-MT01.webp" alt="Imagen de H4-HO01-VE03-MT01">
+    <h1>H4-HO01-VE03-MT01</h1>
+    <p class="description">MOTOR TRIFASICO 15kW 20HP 240-440VAC 3600RPM 2 POLOS CON BASE 180M B3 </p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Ubicación</td><td>Horno No.4</td></tr>
+        
+        <tr><td>FABRICANTE</td><td>ZHEJIANG DASU ELECTRIC</td></tr>
+        
+        <tr><td>MODELO</td><td>Y 180M-2</td></tr>
+        
+        <tr><td># De Serie</td><td>6446</td></tr>
+        
+        <tr><td>TIPO DE MONTAJE</td><td>IMB3/IM1001</td></tr>
+        
+        <tr><td>TAMAÑO CONSTRUCTVO (FRAME)</td><td>180M</td></tr>
+        
+        <tr><td>Tipo de conexión </td><td>DELTA</td></tr>
+        
+        <tr><td>CLASE DE EFICIENCIA</td><td>IE1</td></tr>
+        
+        <tr><td>POTENCIA (kW)</td><td>22.0</td></tr>
+        
+        <tr><td>Tensión Nomimal (V)</td><td>220</td></tr>
+        
+        <tr><td>Corriente Nominal (A)</td><td>70.0</td></tr>
+        
+        <tr><td>FP (Cosφ  )</td><td>0.89</td></tr>
+        
+        <tr><td>Velocidad Nominal (rpm)</td><td>3540</td></tr>
+        
+        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>528.0</td></tr>
+        
+        <tr><td>País de Origen </td><td>China</td></tr>
+        
+        <tr><td>Peso (kg)</td><td>180.0</td></tr>
+        
+        <tr><td>Año </td><td>2004.0</td></tr>
+        
+    </table>
+    
+
+    <div class="centro">
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/H4-HO01.json')">Ver repuestos</button>
+    </div>
+    <div id="tablaRepuestos"></div>
+    <script src="../../js/loader.js"></script>
+</body>
+</html>

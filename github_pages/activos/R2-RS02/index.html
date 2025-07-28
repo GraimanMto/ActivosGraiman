@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>R2-RS02 - Ficha Técnica</title>
+    <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
+</head>
+<body>
+    <img src="../../images/R2-RS02.webp" alt="Imagen de R2-RS02">
+    <h1>R2-RS02</h1>
+    <p class="description">MÁQUINA DE ESCUADRADO Y BISELADO M2 TORNADO 25/120DC</p>
+    <table>
+        <tr><th>Campo</th><th>Valor</th></tr>
+        
+        <tr><td>Descripción Centro Costos</td><td>RECTIFICADORA 2</td></tr>
+        
+        <tr><td>País de Origen</td><td>Italy</td></tr>
+        
+        <tr><td>Año de Fabricación</td><td>2024</td></tr>
+        
+        <tr><td>Nro Serie</td><td>12SQ0769</td></tr>
+        
+        <tr><td>Criticidad</td><td>Crítico</td></tr>
+        
+        <tr><td>Marca</td><td>ANCORA</td></tr>
+        
+        <tr><td>Modelo</td><td>TORNADO</td></tr>
+        
+        <tr><td>Consumo de Energía</td><td>296</td></tr>
+        
+        <tr><td>Peso de Máquina</td><td>9800 KG</td></tr>
+        
+    </table>
+
+    
+
+    <div class="centro">
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/R2-RS02.json')">Ver repuestos</button>
+    </div>
+    <div id="tablaRepuestos"></div>
+    <script src="../../js/loader.js"></script>
+</body>
+</html>

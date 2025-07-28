@@ -157,22 +157,34 @@ async function cargarRepuestos(jsonPath) {
 with open(os.path.join(js_dir, "loader.js"), "w", encoding="utf-8") as f:
     f.write(loader_js_content)
 
-# Plantilla HTML de activos
+# Plantilla HTML de activos 
 activo_template_path = os.path.join(templates_dir, "activo.html")
 with open(activo_template_path, "w", encoding="utf-8") as f:
     f.write("""
 <!DOCTYPE html>
-<html lang=\"es\">
+<html lang="es">
 <head>
-    <meta charset=\"UTF-8\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ nro_activo }} - Ficha Técnica</title>
-    <link rel=\"stylesheet\" href=\"../../styles.css\">
+    <link rel="stylesheet" href="../../styles.css">
+
+    <script>
+        // Clave para acceder al contenido
+        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
+
+        document.addEventListener("DOMContentLoaded", function () {
+            let clave = prompt("Ingrese la clave para acceder:");
+            if (clave !== CLAVE_CORRECTA) {
+                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
+            }
+        });
+    </script>
 </head>
 <body>
-    <img src=\"../../images/{{ nro_activo | replace(' ', '_') }}.webp\" alt=\"Imagen de {{ nro_activo }}\">
+    <img src="../../images/{{ nro_activo | replace(' ', '_') }}.webp" alt="Imagen de {{ nro_activo }}">
     <h1>{{ nro_activo }}</h1>
-    <p class=\"description\">{{ descripcion }}</p>
+    <p class="description">{{ descripcion }}</p>
     <table>
         <tr><th>Campo</th><th>Valor</th></tr>
         {% for key, value in datos.items() %}
@@ -181,9 +193,9 @@ with open(activo_template_path, "w", encoding="utf-8") as f:
     </table>
 
     {% if motor_data %}
-    <img src=\"../../images/{{ motor_data.nro_activo | replace(' ', '_') }}.webp\" alt=\"Imagen de {{ motor_data.nro_activo }}\">
+    <img src="../../images/{{ motor_data.nro_activo | replace(' ', '_') }}.webp" alt="Imagen de {{ motor_data.nro_activo }}">
     <h1>{{ motor_data.nro_activo }}</h1>
-    <p class=\"description\">{{ motor_data.descripcion }}</p>
+    <p class="description">{{ motor_data.descripcion }}</p>
     <table>
         <tr><th>Campo</th><th>Valor</th></tr>
         {% for key, value in motor_data.datos.items() %}
@@ -192,15 +204,15 @@ with open(activo_template_path, "w", encoding="utf-8") as f:
     </table>
     {% endif %}
 
-    <div class=\"centro\">
-        <button class=\"boton-vino\" onclick=\"cargarRepuestos('../../json_activos/{{ json_filename | replace(' ', '_') }}.json')\">Ver repuestos</button>
+    <div class="centro">
+        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/{{ json_filename | replace(' ', '_') }}.json')">Ver repuestos</button>
     </div>
-    <div id=\"tablaRepuestos\"></div>
-    <script src=\"../../js/loader.js\"></script>
+    <div id="tablaRepuestos"></div>
+    <script src="../../js/loader.js"></script>
 </body>
 </html>
 """)
-
+    
 # Configurar Jinja2
 env = Environment(loader=FileSystemLoader(templates_dir))
 activo_template = env.get_template("activo.html")
