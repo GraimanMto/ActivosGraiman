@@ -93,5 +93,56 @@
     </div>
     <div id="tablaRepuestos"></div>
     <script src="../../js/loader.js"></script>
+
+<style>
+  /* Estilos para el botón y el menú desplegable */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    min-width: 250px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  .dropdown-content a {
+    color: #333;
+    padding: 8px 12px;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f0f0f0;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+</style>
+
+<!-- BOTÓN CON MENÚ DE MANUALES -->
+<div class="centro" style="margin-top: 20px;">
+  <div class="dropdown">
+    <button class="boton-vino">Ver Manuales</button>
+    <div class="dropdown-content">
+      <a href="../../manuales/H2-HO01-VE01_Operacion.pdf" target="_blank">📘 Manual Operación</a>
+      <a href="../../manuales/H2-HO01-VE01_Electrico.pdf" target="_blank">📗 Manual Eléctrico</a>
+      <a href="../../manuales/H2-HO01-VE01_Neumatico.pdf" target="_blank">📕 Manual Neumático</a>
+      <a href="../../manuales/Manual-Tensionador-SKF.pdf" target="_blank">🛠️ Tensionador de Bandas</a>
+      <a href="../../manuales/Manual-Balanceo-Vibracheck.pdf" target="_blank">⚖️ Manual de Balanceo</a>
+    </div>
+  </div>
+</div>
+
+
 </body>
 </html>
