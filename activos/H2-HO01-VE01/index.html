@@ -95,37 +95,7 @@
     </div>
     <div id="tablaRepuestos"></div>
     <script src="../../js/loader.js"></script>
-    
+
 </div>
-
-<!-- NUEVO: Botón Manual con menú desplegable -->
-<div class="centro" style="margin-top: 20px;">
-    <label for="selectorManual" style="font-weight:bold;">Ver Manual:</label>
-    <select id="selectorManual" onchange="cargarManual()" class="boton-vino" style="margin-left: 10px;">
-        <option value="">-- Seleccione un documento --</option>
-        <option value="../../manuales/Manual-Tensionador-SKF.pdf">Manual de Tensionador de Bandas</option>
-        <option value="../../manuales/Manual-Balanceo-Vibracheck.pdf">Manual de Balanceo</option>
-    </select>
-</div>
-
-<!-- VISOR PDF -->
-<div id="visorManual" style="margin-top: 20px;">
-    <iframe id="pdfFrame" src="" width="100%" height="600px" style="display: none; border: 1px solid #ccc;"></iframe>
-</div>
-
-<script>
-    function cargarManual() {
-        const selector = document.getElementById("selectorManual");
-        const iframe = document.getElementById("pdfFrame");
-        const rutaPDF = selector.value;
-
-        if (rutaPDF) {
-            iframe.src = rutaPDF;
-            iframe.style.display = "block";
-        } else {
-            iframe.style.display = "none";
-        }
-    }
-</script>
 </body>
 </html>
