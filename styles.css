@@ -79,3 +79,26 @@ ul li a:hover {
     margin-top: 20px;
     text-align: center;
 }
+.manuales-menu {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: fit-content;
+    margin: 10px auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    text-align: left;
+}
+
+.manuales-menu a {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    color: #333;
+    transition: background-color 0.2s;
+}
+
+.manuales-menu a:hover {
+    background-color: #e7b0b0;
+}
