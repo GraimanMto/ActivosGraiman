@@ -169,17 +169,6 @@ with open(activo_template_path, "w", encoding="utf-8") as f:
     <title>{{ nro_activo }} - Ficha Técnica</title>
     <link rel="stylesheet" href="../../styles.css">
 
-    <script>
-        // Clave para acceder al contenido
-        const CLAVE_CORRECTA = "GIG25";  // Puedes cambiar esta clave
-
-        document.addEventListener("DOMContentLoaded", function () {
-            let clave = prompt("Ingrese la clave para acceder:");
-            if (clave !== CLAVE_CORRECTA) {
-                document.body.innerHTML = "<h1>Acceso denegado</h1><p>Clave incorrecta</p>";
-            }
-        });
-    </script>
 </head>
 <body>
     <img src="../../images/{{ nro_activo | replace(' ', '_') }}.webp" alt="Imagen de {{ nro_activo }}">
