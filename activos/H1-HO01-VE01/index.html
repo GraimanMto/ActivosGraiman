@@ -84,45 +84,30 @@
     </div>
     <div id="tablaRepuestos"></div>
     <script src="../../js/loader.js"></script>
-    
+
+    <div class="centro" style="margin-top: 20px;">
+  <button class="boton-vino" onclick="toggleDropdown()">Ver Manuales</button>
+  <div id="manualDropdown" class="manuales-menu" style="display: none;">
+
+    <a href="../../manuales/Procedimiento-Cargadora-System-V3.pdf" target="_blank">Prodcediemiento Cargadora</a>
+    <a href="../../manuales/Manual-Tensionador-SKF.pdf" target="_blank">Tensionador de Bandas</a>
+    <a href="../../manuales/Manual-Balanceo-Vibracheck.pdf" target="_blank">Manual de Balanceo</a>
+  </div>
+</div>
+
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const dropdown = document.getElementById("manualDropdown");
     const button = document.querySelector(".boton-vino[onclick='toggleDropdown()']");
-    const CARPETA_MANUALES = "../../manuales/"; // ruta base de los PDF
-    let isOpen = false;
 
-    // --- cambia este array por los archivos que tengas en la carpeta manuales ---
-    const listaManuales = [
-      { titulo: "Manual tensionador SKF", archivo: "Manual-tensionador-SKF.pdf" },
-      { titulo: "Procedimiento Cargadora System", archivo: "Procedimiento-Cargadora-System-V3.pdf" },
-    ];
+    let isOpen = false;
 
     button.addEventListener("click", function () {
       isOpen = !isOpen;
       dropdown.style.display = isOpen ? "block" : "none";
-      if (isOpen) renderManuals();
     });
-
-    function renderManuals() {
-      dropdown.innerHTML = "";
-      listaManuales.forEach(m => {
-        const url = CARPETA_MANUALES + m.archivo;
-        const item = document.createElement("div");
-        item.className = "manual-item";
-        item.innerHTML = `
-          <span>${m.titulo}</span>
-          <div class="manual-actions">
-            <a href="${url}" target="_blank">Abrir</a>
-            <a href="${url}" download>Descargar</a>
-          </div>
-        `;
-        dropdown.appendChild(item);
-      });
-    }
   });
 </script>
-
 
 </body>
 </html>
