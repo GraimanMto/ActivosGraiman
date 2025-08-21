@@ -1,113 +1,110 @@
-
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>H1-HO01-VE01 - Ficha Técnica</title>
-    <link rel="stylesheet" href="../../styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>H1-HO01-VE01 - Ficha Técnica</title>
+  <link rel="stylesheet" href="../../styles.css">
 
+  <style>
+    .manuales-menu {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: fit-content;
+      margin: 10px auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      text-align: left;
+    }
+
+    .manuales-menu a {
+      display: block;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 8px 12px;
+      color: #333;
+      transition: background-color 0.2s;
+    }
+
+    .manuales-menu a:hover {
+      background-color: #f0f0f0;
+    }
+  </style>
 </head>
+
 <body>
-    <img src="../../images/H1-HO01-VE01.webp" alt="Imagen de H1-HO01-VE01">
-    <h1>H1-HO01-VE01</h1>
-    <p class="description">VENTILADOR ASPIRACION HUMOS H1</p>
-    <table>
-        <tr><th>Campo</th><th>Valor</th></tr>
-        
-        <tr><td>Descripción Centro Costos</td><td>HORNO 1</td></tr>
-        
-        <tr><td>País de Origen</td><td>Italy</td></tr>
-        
-        <tr><td>Año de Fabricación</td><td>2011</td></tr>
-        
-        <tr><td>Nro Serie</td><td>1103852</td></tr>
-        
-        <tr><td>Criticidad</td><td>Crítico</td></tr>
-        
-        <tr><td>Marca</td><td>Ferrari</td></tr>
-        
-        <tr><td>Modelo</td><td>FQ 1121 N1B LGO LGO</td></tr>
-        
-    </table>
+  <img src="../../images/H1-HO01-VE01.webp" alt="Imagen de H1-HO01-VE01">
+  <h1>H1-HO01-VE01</h1>
+  <p class="description">VENTILADOR ASPIRACION HUMOS H1</p>
 
-    
-    <img src="../../images/H1-HO01-VE01-MT01.webp" alt="Imagen de H1-HO01-VE01-MT01">
-    <h1>H1-HO01-VE01-MT01</h1>
-    <p class="description">MOTOR TRIFASICO 44.5kW 60HP 220-440VAC 1800RPM 4POLOS CON BASE 225S B3 </p>
-    <table>
-        <tr><th>Campo</th><th>Valor</th></tr>
-        
-        <tr><td>No. Articulo</td><td>EMMOT178</td></tr>
-        
-        <tr><td>Ubicación</td><td>Horno No.1</td></tr>
-        
-        <tr><td>FABRICANTE</td><td>SIEMENS</td></tr>
-        
-        <tr><td>MODELO</td><td>1LG4220-4AA60</td></tr>
-        
-        <tr><td># De Serie</td><td>1105/085667001</td></tr>
-        
-        <tr><td>TIPO DE MONTAJE</td><td>IMB3</td></tr>
-        
-        <tr><td>TAMAÑO CONSTRUCTVO (FRAME)</td><td>225S</td></tr>
-        
-        <tr><td>Tipo de conexión </td><td>VARIADOR</td></tr>
-        
-        <tr><td>CLASE DE EFICIENCIA</td><td>IE1</td></tr>
-        
-        <tr><td>POTENCIA (kW)</td><td>42.5</td></tr>
-        
-        <tr><td>Tensión Nomimal (V)</td><td>440</td></tr>
-        
-        <tr><td>Corriente Nominal (A)</td><td>67.0</td></tr>
-        
-        <tr><td>FP (Cosφ  )</td><td>0.86</td></tr>
-        
-        <tr><td>Velocidad Nominal (rpm)</td><td>1775</td></tr>
-        
-        <tr><td>Consumo enérgetico 24horas (kWH)</td><td>1020.0</td></tr>
-        
-        <tr><td>País de Origen </td><td>República Checa</td></tr>
-        
-        <tr><td>Peso (kg)</td><td>265.0</td></tr>
-        
-        <tr><td>Rodamiento (EJE)</td><td>22218 EK/C3</td></tr>
-        
-        <tr><td>Rodamiento (VENTILADOR</td><td>22218 EK/C3</td></tr>
-        
-    </table>
-    
+  <table>
+    <tr><th>Campo</th><th>Valor</th></tr>
+    <tr><td>Descripción Centro Costos</td><td>HORNO 1</td></tr>
+    <tr><td>País de Origen</td><td>Italy</td></tr>
+    <tr><td>Año de Fabricación</td><td>2011</td></tr>
+    <tr><td>Nro Serie</td><td>1103852</td></tr>
+    <tr><td>Criticidad</td><td>Crítico</td></tr>
+    <tr><td>Marca</td><td>Ferrari</td></tr>
+    <tr><td>Modelo</td><td>FQ 1121 N1B LGO LGO</td></tr>
+  </table>
 
-    <div class="centro">
-        <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/H1-HO01.json')">Ver repuestos</button>
-    </div>
-    <div id="tablaRepuestos"></div>
-    <script src="../../js/loader.js"></script>
+  <img src="../../images/H1-HO01-VE01-MT01.webp" alt="Imagen de H1-HO01-VE01-MT01">
+  <h1>H1-HO01-VE01-MT01</h1>
+  <p class="description">MOTOR TRIFASICO 44.5kW 60HP 220-440VAC 1800RPM 4POLOS CON BASE 225S B3 </p>
 
-    <div class="centro" style="margin-top: 20px;">
-  <button class="boton-vino" onclick="toggleDropdown()">Ver Manuales</button>
-  <div id="manualDropdown" class="manuales-menu" style="display: none;">
+  <table>
+    <tr><th>Campo</th><th>Valor</th></tr>
+    <tr><td>No. Articulo</td><td>EMMOT178</td></tr>
+    <tr><td>Ubicación</td><td>Horno No.1</td></tr>
+    <tr><td>FABRICANTE</td><td>SIEMENS</td></tr>
+    <tr><td>MODELO</td><td>1LG4220-4AA60</td></tr>
+    <tr><td># De Serie</td><td>1105/085667001</td></tr>
+    <tr><td>TIPO DE MONTAJE</td><td>IMB3</td></tr>
+    <tr><td>TAMAÑO CONSTRUCTVO (FRAME)</td><td>225S</td></tr>
+    <tr><td>Tipo de conexión </td><td>VARIADOR</td></tr>
+    <tr><td>CLASE DE EFICIENCIA</td><td>IE1</td></tr>
+    <tr><td>POTENCIA (kW)</td><td>42.5</td></tr>
+    <tr><td>Tensión Nomimal (V)</td><td>440</td></tr>
+    <tr><td>Corriente Nominal (A)</td><td>67.0</td></tr>
+    <tr><td>FP (Cosφ)</td><td>0.86</td></tr>
+    <tr><td>Velocidad Nominal (rpm)</td><td>1775</td></tr>
+    <tr><td>Consumo enérgetico 24horas (kWH)</td><td>1020.0</td></tr>
+    <tr><td>País de Origen</td><td>República Checa</td></tr>
+    <tr><td>Peso (kg)</td><td>265.0</td></tr>
+    <tr><td>Rodamiento (EJE)</td><td>22218 EK/C3</td></tr>
+    <tr><td>Rodamiento (VENTILADOR)</td><td>22218 EK/C3</td></tr>
+  </table>
 
-    <a href="../../manuales/Procedimiento-Cargadora-System-V3.pdf" target="_blank">Prodcediemiento Cargadora</a>
-    <a href="../../manuales/Manual-Tensionador-SKF.pdf" target="_blank">Tensionador de Bandas</a>
-    <a href="../../manuales/Manual-Balanceo-Vibracheck.pdf" target="_blank">Manual de Balanceo</a>
+  <div class="centro">
+    <button class="boton-vino" onclick="cargarRepuestos('../../json_activos/H1-HO01.json')">Ver repuestos</button>
   </div>
-</div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const dropdown = document.getElementById("manualDropdown");
-    const button = document.querySelector(".boton-vino[onclick='toggleDropdown()']");
+  <div id="tablaRepuestos"></div>
+  <script src="../../js/loader.js"></script>
 
-    let isOpen = false;
+  <!-- BOTÓN VER MANUALES CON MENÚ DESPLEGABLE -->
+  <div class="centro" style="margin-top: 20px;">
+    <button class="boton-vino" id="btnManual">Ver Manuales</button>
+    <div id="manualDropdown" class="manuales-menu" style="display: none;">
+      <a href="../../manuales/Procedimiento-Cargadora-System-V3.pdf" target="_blank">📘 Procedimiento Cargadora</a>
+      <a href="../../manuales/Manual-Tensionador-SKF.pdf" target="_blank">🛠️ Tensionador de Bandas</a>
+      <a href="../../manuales/Manual-Balanceo-Vibracheck.pdf" target="_blank">⚖️ Manual de Balanceo</a>
+    </div>
+  </div>
 
-    button.addEventListener("click", function () {
-      isOpen = !isOpen;
-      dropdown.style.display = isOpen ? "block" : "none";
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const dropdown = document.getElementById("manualDropdown");
+      const button = document.getElementById("btnManual");
+      let isOpen = false;
+
+      button.addEventListener("click", function () {
+        isOpen = !isOpen;
+        dropdown.style.display = isOpen ? "block" : "none";
+      });
     });
-  });
-</script>
+  </script>
 
 </body>
 </html>
